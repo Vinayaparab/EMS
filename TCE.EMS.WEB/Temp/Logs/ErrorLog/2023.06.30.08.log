@@ -1,0 +1,36 @@
+
+ ERROR 30-Jun-2023 20:06:06 [7] - Exception :30062023200606986310
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
+
+ ERROR 30-Jun-2023 20:12:37 [10] - Exception :30122023201237278291
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
+
+ ERROR 30-Jun-2023 20:15:16 [14] - Exception :30152023201516937812
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
+
+ ERROR 30-Jun-2023 20:25:35 [10] - Exception :30252023202535367364
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
+
+ ERROR 30-Jun-2023 20:26:28 [7] - Exception :30262023202628426520
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
+
+ ERROR 30-Jun-2023 20:27:30 [18] - Exception :30272023202730694745
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 62
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63

@@ -1,0 +1,12 @@
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\bin\Debug\net6.0\BZ.FW.deps.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\bin\Debug\net6.0\BZ.FW.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\bin\Debug\net6.0\BZ.FW.pdb
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.csproj.AssemblyReference.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.AssemblyInfoInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.AssemblyInfo.cs
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.csproj.CoreCompileInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\refint\BZ.FW.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\BZ.FW.pdb
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\Lib\obj\Debug\net6.0\ref\BZ.FW.dll

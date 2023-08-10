@@ -1,0 +1,1510 @@
+2023-06-29T11:27:15.5888072+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T11:27:15.5888642+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T11:27:15.5890770+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T11:27:19.2306382+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T11:27:19.2306651+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T11:27:19.2306815+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T11:41:04.5095506+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T11:41:04.5095957+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T11:41:04.5098747+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T11:41:06.0261380+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T11:41:06.0261632+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T11:41:06.0261791+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T11:57:47.2159842+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T11:57:47.2160267+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T11:57:47.2161675+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T11:57:47.6982034+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T11:57:47.6982301+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T11:57:47.6982468+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:21:35.9317312+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:21:35.9317635+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:21:35.9318657+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T12:21:36.4472313+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:21:36.4472537+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:21:36.4472665+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:22:08.4609078+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:22:08.4609351+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:22:08.4609507+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T12:22:09.2936766+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:22:09.2937031+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:22:09.2937184+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:22:09.2950479+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:22:09.3397059+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T12:22:09.3397483+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:22:09.3397632+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T12:22:09.3397752+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T12:22:09.3397963+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T12:22:09.3398076+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T12:22:09.3398436+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T12:22:09.3399074+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T12:22:09.4458831+05:30  [INF] Executed DbCommand ("97"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T12:22:09.4459299+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T12:22:09.4459425+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T12:22:09.4459635+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T12:22:09.4459775+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T12:22:09.4463387+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T12:22:09.4463541+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T12:22:09.4463741+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T12:22:09.4463814+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T12:22:09.4464136+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T12:22:09.4464586+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T12:22:09.5063662+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T12:22:09.5064737+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T12:22:09.5064918+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T12:22:09.5065016+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T12:22:09.5065178+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T12:22:09.5065717+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:22:09.5065803+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:22:09.5065856+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:54:36.3345333+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-29T12:54:38.1885292+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-29T12:54:38.2947695+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-29T12:54:38.2963238+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-29T12:54:38.2973673+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-29T12:54:38.2985030+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-29T12:54:38.6880984+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:54:38.6946419+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:54:38.7696096+05:30  [DBG] Created DbConnection. (71ms). (d2b2430c)
+2023-06-29T12:54:40.2408635+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:54:40.2427047+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:54:40.2479690+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:55:27.1422872+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:55:27.1437361+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:55:27.1441350+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T12:55:27.5214456+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:55:27.5217082+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:55:27.5218499+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T12:55:27.9689661+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T12:55:32.1517777+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Count()"' (e980d05f)
+2023-06-29T12:55:32.4026866+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Common AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-06-29T12:55:32.4330682+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T12:55:32.4335140+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T12:55:32.4335658+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T12:55:32.4413037+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (2ms). (eb909d95)
+2023-06-29T12:55:32.4430641+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (10ms). (b50e332e)
+2023-06-29T12:55:32.4452615+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T12:55:32.4464428+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T12:55:32.4557434+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T12:55:32.5209678+05:30  [INF] Executed DbCommand ("63"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T12:55:32.5286817+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T12:55:32.5306712+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 7ms reading results. (8e6fd384)
+2023-06-29T12:55:32.5331627+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T12:55:32.5343488+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-06-29T12:55:32.5433004+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-06-29T12:55:32.5651756+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<string, string, string, string, string, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            MstCode -> 0
+            MstText -> 1
+            MstType -> 2
+            MstValue -> 3
+            Active -> 4
+            LmodBy -> 5
+            LmodOn -> 6
+        SELECT t.MstCode, t.MstText, t.MstType, t.MstValue, t.Active, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Common AS t
+        ORDER BY t.MstCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<string, string, string, string, string, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-06-29T12:55:32.5739684+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T12:55:32.5740913+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T12:55:32.5996249+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (25ms). (b50e332e)
+2023-06-29T12:55:32.5998653+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T12:55:32.6000142+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T12:55:32.6043140+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T12:55:32.6607708+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T12:55:32.6642200+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T12:55:32.6644643+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 3ms reading results. (8e6fd384)
+2023-06-29T12:55:32.6648054+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T12:55:32.6649344+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T12:55:32.6649700+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T12:55:32.6650013+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T12:55:32.6650321+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:20:29.3229508+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:20:29.3290471+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:20:29.3292093+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:20:29.7765713+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:20:29.7766186+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:20:29.7766452+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:23:05.9373372+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:23:05.9373958+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:23:05.9374305+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:23:06.1480418+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:23:06.1480837+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:23:06.1481078+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:31:32.7593563+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:31:32.7594135+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:31:32.7595900+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:31:33.2405079+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:31:33.2405513+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:31:33.2405746+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:37:03.5852813+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:37:03.5853384+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:37:03.5853794+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:37:03.7992655+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:37:03.7993028+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:37:03.7993269+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:43:46.9856155+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:43:46.9856811+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:43:46.9858133+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:43:47.4577666+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:43:47.4578032+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:43:47.4578333+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:50:12.4987621+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:50:12.4988115+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:50:12.4988427+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:50:12.9759698+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:50:12.9760101+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:50:12.9760321+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:50:12.9779795+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:50:12.9882589+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T14:50:12.9882892+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:50:12.9883174+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:50:12.9883548+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T14:50:12.9883685+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T14:50:12.9884386+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T14:50:12.9884954+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T14:50:12.9885843+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T14:50:13.0463192+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T14:50:13.0465936+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T14:50:13.0466271+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T14:50:13.0466450+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T14:50:13.0466741+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T14:50:13.0479070+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T14:50:13.0479549+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T14:50:13.0480970+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T14:50:13.0481146+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T14:50:13.0481477+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T14:50:13.0482234+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T14:50:13.1052542+05:30  [INF] Executed DbCommand ("57"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T14:50:13.1055801+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T14:50:13.1056160+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T14:50:13.1056380+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T14:50:13.1056644+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T14:50:13.1056814+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:50:13.1056949+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:50:13.1057028+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:57:08.4224599+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:57:08.4225754+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:57:08.4227107+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:57:08.8756132+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:57:08.8756596+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:57:08.8756845+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T14:58:42.3519436+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T14:58:42.3520001+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T14:58:42.3520443+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T14:58:42.5663962+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T14:58:42.5665426+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T14:58:42.5665695+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T15:00:17.0767932+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T15:00:17.0768770+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T15:00:17.0769245+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T15:00:17.2940242+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T15:00:17.2940741+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T15:00:17.2941040+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T15:07:24.9418976+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T15:07:24.9420538+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T15:07:24.9422244+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T15:07:25.4375739+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T15:07:25.4376049+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T15:07:25.4376269+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T15:13:46.3611880+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T15:13:46.3612448+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T15:13:46.3612866+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T15:13:46.5756487+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T15:13:46.5756833+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T15:13:46.5757080+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T15:26:44.8411842+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T15:26:44.8412414+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T15:26:44.8413697+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T15:26:45.2806085+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T15:26:45.2806371+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T15:26:45.2806587+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:07:27.9998027+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:07:28.0000169+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:07:28.0001419+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:07:28.4904333+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:07:28.4904730+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:07:28.4904960+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:09:10.1168605+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:09:10.1169204+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:09:10.1169606+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:09:10.3821038+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:09:10.3821342+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:09:10.3821690+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:11:18.3866896+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:11:18.3867439+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:11:18.3867821+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:11:18.6397994+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:11:18.6398363+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:11:18.6398598+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:15:24.0577848+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:15:24.0579523+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:15:24.0579908+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:15:24.3145796+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:15:24.3146425+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:15:24.3147203+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:25:15.5499835+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:25:15.5500281+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:25:15.5501193+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:25:16.0381416+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:25:16.0381716+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:25:16.0381917+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:37:59.9627531+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:37:59.9628094+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:37:59.9629409+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:38:00.4691186+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:38:00.4691500+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:38:00.4691714+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:44:05.8234000+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:44:05.8235573+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:44:05.8235909+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:44:06.3049461+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:44:06.3049746+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:44:06.3051069+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:47:57.9584588+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:47:57.9585597+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:47:57.9586003+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:47:58.1918428+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:47:58.1918719+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:47:58.1919004+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:49:30.4840053+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:49:30.4840578+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:49:30.4840922+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:49:30.7296757+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:49:30.7297025+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:49:30.7297193+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:53:22.4391311+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:53:22.4391879+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:53:22.4392228+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:53:23.0173395+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:53:23.0173731+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:53:23.0173937+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:54:34.6133097+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:54:34.6133568+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:54:34.6133901+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:54:34.8378081+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:54:34.8378477+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:54:34.8378727+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:56:48.4103955+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:56:48.4104484+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:56:48.4104795+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:56:48.6556501+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:56:48.6556849+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:56:48.6558269+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T17:58:20.9514845+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T17:58:20.9515406+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T17:58:20.9515738+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T17:58:21.1788008+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T17:58:21.1790283+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T17:58:21.1790528+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:00:21.7424207+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:00:21.7424706+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:00:21.7425040+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:00:21.9658893+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:00:21.9659171+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:00:21.9659334+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:03:41.1907114+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:03:41.1907701+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:03:41.1908212+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:03:41.4242942+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:03:41.4244441+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:03:41.4244894+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:05:35.9417261+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:05:35.9418791+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:05:35.9419064+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:05:36.1929336+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:05:36.1929673+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:05:36.1929864+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:27:02.6422417+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:27:02.6423192+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:27:02.6424729+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:27:03.1436344+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:27:03.1438203+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:27:03.1438424+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:32:45.7842992+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:32:45.7843465+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:32:45.7844536+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:32:46.3361204+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:32:46.3361446+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:32:46.3361665+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T18:42:46.6735362+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T18:42:46.6735811+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T18:42:46.6740152+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T18:42:47.3109368+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T18:42:47.3109584+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T18:42:47.3109729+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:14:39.9444646+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:14:39.9445073+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:14:39.9446513+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:14:40.4162143+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:14:40.4162350+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:14:40.4162478+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:19:18.3855556+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:19:18.3857054+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:19:18.3857381+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:19:18.6441074+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:19:18.6441307+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:19:18.6441796+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:20:07.6847791+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:20:07.6848134+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:20:07.6848363+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:20:07.9419831+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:20:07.9420068+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:20:07.9420227+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:23:22.9514304+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:23:22.9515970+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:23:22.9516297+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:23:23.2073662+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:23:23.2073895+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:23:23.2074058+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:24:23.5189460+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:24:23.5189767+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:24:23.5189938+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:24:23.7722446+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:24:23.7722676+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:24:23.7722823+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:24:23.7737351+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:24:23.8097120+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:24:23.8097381+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:24:23.8097511+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:24:23.8097630+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:24:23.8097675+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:24:23.8097767+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:24:23.8098069+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:24:23.8099260+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T19:24:23.8750688+05:30  [INF] Executed DbCommand ("65"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T19:24:23.8751442+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:24:23.8751608+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:24:23.8751808+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:24:23.8752069+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:24:23.8759461+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:24:23.8759654+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:24:23.8760156+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:24:23.8760274+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:24:23.8760445+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:24:23.8761213+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T19:24:23.9430333+05:30  [INF] Executed DbCommand ("67"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T19:24:23.9432893+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:24:23.9433104+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:24:23.9433215+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:24:23.9433396+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:24:23.9433869+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:24:23.9433967+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:24:23.9434030+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:33:23.6421424+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:33:23.6422740+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:33:23.6423997+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:33:24.1482869+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:33:24.1483151+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:33:24.1483315+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:35:52.1797375+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:35:52.1797836+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:35:52.1798095+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:35:52.7599228+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:35:52.7599473+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:35:52.7599626+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:50:48.8037693+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:50:48.8038079+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:50:48.8039177+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:50:49.3459576+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:50:49.3459811+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:50:49.3459964+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:50:49.3467322+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:50:49.3473679+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:50:49.3473838+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:50:49.3473979+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:50:49.3474123+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:50:49.3474270+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:50:49.3474377+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:50:49.3474540+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:50:49.3476559+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T19:50:49.4142093+05:30  [INF] Executed DbCommand ("67"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T19:50:49.4142768+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:50:49.4142927+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:50:49.4143034+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:50:49.4143217+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:50:49.4148716+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:50:49.4148914+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:50:49.4149085+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:50:49.4149174+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:50:49.4149357+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:50:49.4149997+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T19:50:49.4842559+05:30  [INF] Executed DbCommand ("69"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T19:50:49.4844431+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:50:49.4844634+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:50:49.4844807+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:50:49.4844994+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:50:49.4845137+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:50:49.4845208+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:50:49.4845261+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:23.5776226+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:23.5777742+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:23.5780866+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:24.0566621+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:24.0566880+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:24.0567037+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:28.9457069+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:28.9458304+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:28.9458490+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:29.7961782+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:29.7961988+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:29.7962113+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:29.7969267+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:29.7976990+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:58:29.7977176+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:29.7977324+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:29.7977449+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:58:29.7977507+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:58:29.7977604+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:58:29.7977852+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:58:29.7978093+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T19:58:29.8558604+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T19:58:29.8559148+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:58:29.8559864+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:58:29.8559981+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:58:29.8560161+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:58:29.8567186+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:58:29.8567561+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:58:29.8568019+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:58:29.8568123+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:58:29.8568292+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:58:29.8568615+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T19:58:29.9156450+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T19:58:29.9158076+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:58:29.9158295+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:58:29.9158401+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:58:29.9158881+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:58:29.9159039+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:29.9159119+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:29.9159180+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:41.8021642+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:41.8021953+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:41.8022115+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:42.0380242+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:42.0380457+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:42.0380591+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:45.6310576+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:45.6312025+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:45.6312225+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:45.8586117+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:45.8586320+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:45.8586425+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T19:58:45.8593774+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T19:58:45.8598746+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:58:45.8598897+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T19:58:45.8599029+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T19:58:45.8599239+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:58:45.8599316+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:58:45.8599415+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:58:45.8599581+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:58:45.8599795+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T19:58:45.9179424+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T19:58:45.9179966+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:58:45.9180113+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:58:45.9180208+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:58:45.9180617+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:58:45.9183836+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T19:58:45.9184017+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T19:58:45.9184162+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T19:58:45.9184242+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T19:58:45.9184450+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T19:58:45.9184751+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T19:58:45.9766039+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T19:58:45.9767294+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T19:58:45.9767533+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T19:58:45.9767632+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T19:58:45.9767814+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T19:58:45.9767939+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T19:58:45.9768006+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T19:58:45.9768058+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:02:02.8365680+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:02:02.8366077+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:02:02.8366369+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:02:03.0653071+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:02:03.0653358+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:02:03.0653560+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:02:09.6124209+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:02:09.6125046+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:02:09.6125221+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:02:09.8462992+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:02:09.8463276+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:02:09.8463560+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:02:09.8473031+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:02:09.8479506+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:02:09.8479660+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:02:09.8479794+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:02:09.8479981+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:02:09.8480048+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:02:09.8480150+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:02:09.8480324+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:02:09.8480595+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:02:09.9063595+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:02:09.9064224+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:02:09.9064416+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:02:09.9064541+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:02:09.9064737+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:02:09.9070850+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:02:09.9071090+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:02:09.9071298+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:02:09.9071393+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:02:09.9071669+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:02:09.9072021+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:02:09.9656330+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:02:09.9657072+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:02:09.9657236+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:02:09.9657336+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:02:09.9657500+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:02:09.9657615+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:02:09.9657725+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:02:09.9657782+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:06:37.3518400+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:06:37.3518862+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:06:37.3519940+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:06:37.8311370+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:06:37.8311605+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:06:37.8311814+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:07:04.8941435+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:07:04.8941763+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:07:04.8942045+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:07:05.1251622+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:07:05.1251862+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:07:05.1252012+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:07:09.8268588+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:07:09.8268942+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:07:09.8269099+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:07:10.0531996+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:07:10.0532242+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:07:10.0532427+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:07:10.0541037+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:07:10.0546111+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:07:10.0546339+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:07:10.0546579+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:07:10.0546784+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:07:10.0546908+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:07:10.0547046+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:07:10.0547213+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:07:10.0547459+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:07:10.1136589+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:07:10.1137323+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:07:10.1137755+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:07:10.1137905+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:07:10.1138101+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:07:10.1141828+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:07:10.1142003+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:07:10.1142176+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:07:10.1142261+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:07:10.1142472+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:07:10.1142797+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:07:10.1734019+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:07:10.1734723+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:07:10.1734904+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:07:10.1735009+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:07:10.1735174+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:07:10.1735294+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:07:10.1735366+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:07:10.1735419+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:19.1749753+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:19.1750136+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:19.1750360+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:19.4031064+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:19.4031386+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:19.4031568+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:19.4040662+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:19.4047791+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:08:19.4047953+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:19.4048156+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:19.4048307+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:08:19.4049130+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:08:19.4049288+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:08:19.4049517+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:08:19.4049852+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:08:19.4641112+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:08:19.4641614+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:08:19.4641810+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:08:19.4641940+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:08:19.4642369+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:08:19.4646424+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:08:19.4646597+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:08:19.4646779+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:08:19.4646914+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:08:19.4647095+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:08:19.4648646+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:08:19.5238228+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:08:19.5238970+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:08:19.5239200+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:08:19.5239344+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:08:19.5239588+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:08:19.5239751+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:19.5239853+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:19.5239929+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:33.1846566+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:33.1847003+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:33.1847283+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:33.4172081+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:33.4172344+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:33.4172513+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:33.4194545+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:33.5072969+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .Select(c => c)
+    .Where(x => x.MstCode == __vId_0)
+    .FirstOrDefault()"' (e980d05f)
+2023-06-29T20:08:33.6810542+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<TblCommon>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: TblCommon.MstCode (string) Required PK AfterSave:Throw ValueGenerated.OnAdd MaxLength(10) Ansi, 0], [Property: TblCommon.Active (string) Required ValueGenerated.OnAdd MaxLength(1) Ansi, 1], [Property: TblCommon.CreatedBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 2], [Property: TblCommon.CreatedOn (DateTime) Required ValueGenerated.OnAdd, 3], [Property: TblCommon.LmodBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 4], [Property: TblCommon.LmodOn (DateTime) Required ValueGenerated.OnAdd, 5], [Property: TblCommon.MstText (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 6], [Property: TblCommon.MstType (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 7], [Property: TblCommon.MstValue (string) Required ValueGenerated.OnAdd MaxLength(50) Ansi, 8] }
+        SELECT TOP(1) t.MstCode, t.Active, t._CreatedBy, t._CreatedOn, t._LModBy, t._LModOn, t.MstText, t.MstType, t.MstValue
+        FROM Masters.tbl_Common AS t
+        WHERE t.MstCode == @__vId_0), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, TblCommon>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .SingleOrDefault()"' (02e79cda)
+2023-06-29T20:08:33.7010687+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:08:33.7010929+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:33.7011222+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:33.7011504+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:08:33.7022272+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (1ms). (b50e332e)
+2023-06-29T20:08:33.7022492+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:08:33.7022868+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:08:33.7026052+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-29T20:08:33.7852686+05:30  [INF] Executed DbCommand ("83"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-29T20:08:33.8762734+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-29T20:08:33.9077539+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:08:33.9077835+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 122ms reading results. (8e6fd384)
+2023-06-29T20:08:33.9078007+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:08:33.9078170+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:08:33.9094392+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:33.9094563+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:33.9094663+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:37.8503989+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:37.8504312+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:37.8504486+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:38.3088618+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:38.3088901+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:38.3089056+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:08:38.3097521+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:08:38.3103866+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:08:38.3104048+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:08:38.3104501+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:08:38.3104655+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:08:38.3104942+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:08:38.3105061+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:08:38.3105271+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:08:38.3105468+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:08:38.3694060+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:08:38.3694529+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:08:38.3694829+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:08:38.3694960+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:08:38.3695144+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:08:38.3697945+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:08:38.3698089+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:08:38.3698271+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:08:38.3698347+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:08:38.3698511+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:08:38.3698919+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:08:38.4284255+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:08:38.4284926+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:08:38.4285115+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:08:38.4285211+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:08:38.4285386+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:08:38.4285549+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:08:38.4285619+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:08:38.4285669+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:14:29.9762567+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:14:29.9762957+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:14:29.9763997+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:14:30.8421502+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:14:30.8421777+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:14:30.8421947+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:14:35.1826480+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:14:35.1826755+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:14:35.1826936+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:14:35.4772239+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:14:35.4772517+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:14:35.4772665+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:14:35.4787191+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:14:35.4797369+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:14:35.4797556+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:14:35.4797723+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:14:35.4797831+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:14:35.4797891+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:14:35.4797995+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:14:35.4798170+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:14:35.4798416+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:14:35.5606724+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:14:35.5607197+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:14:35.5607348+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:14:35.5607490+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:14:35.5607666+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:14:35.5610557+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:14:35.5610716+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:14:35.5611559+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:14:35.5611657+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:14:35.5611839+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:14:35.5612119+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:14:35.6419917+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:14:35.6420571+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:14:35.6420743+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:14:35.6420849+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:14:35.6421072+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:14:35.6421194+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:14:35.6421263+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:14:35.6421312+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:16:35.8481837+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:16:35.8482254+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:16:35.8482510+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:16:36.4258673+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:16:36.4258863+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:16:36.4258996+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:16:41.9270830+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:16:41.9271104+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:16:41.9271227+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:16:42.2244138+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:16:42.2244376+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:16:42.2244518+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:16:42.2252822+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:16:42.2257080+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:16:42.2257203+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:16:42.2257301+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:16:42.2257381+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:16:42.2257459+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:16:42.2257540+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:16:42.2257672+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:16:42.2257841+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:16:42.3065550+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:16:42.3066014+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:16:42.3066169+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:16:42.3066245+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:16:42.3066379+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:16:42.3069941+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:16:42.3070102+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:16:42.3070249+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:16:42.3070370+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:16:42.3070533+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:16:42.3070797+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:16:42.3874686+05:30  [INF] Executed DbCommand ("80"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:16:42.3875429+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:16:42.3875633+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:16:42.3875771+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:16:42.3876158+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:16:42.3876348+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:16:42.3876502+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:16:42.3876621+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:16:49.2545892+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:16:49.2546232+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:16:49.2546390+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:16:49.5511370+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:16:49.5511611+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:16:49.5511739+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:16:49.6258953+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:16:49.6262055+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:16:49.6262175+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:16:49.6262280+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:16:49.6262360+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:16:49.6262398+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:16:49.6262467+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:16:49.6262756+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:16:49.6262920+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:16:49.7072900+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:16:49.7073360+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:16:49.7073520+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:16:49.7073677+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:16:49.7073857+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:16:49.7076698+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:16:49.7076862+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:16:49.7077010+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:16:49.7077089+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:16:49.7077249+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:16:49.7077499+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:16:49.7884921+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:16:49.7885413+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:16:49.7885539+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:16:49.7885616+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:16:49.7885745+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:16:49.7885853+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:16:49.7885922+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:16:49.7885958+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:17:06.7888977+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:17:06.7889276+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:17:06.7889447+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:17:07.5774636+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:17:07.5774907+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:17:07.5775060+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:17:07.5783407+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:17:07.5791174+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:17:07.5791336+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:17:07.5791471+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:17:07.5791587+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:17:07.5791841+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:17:07.5791947+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:17:07.5792116+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:17:07.5792646+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-29T20:17:07.6602647+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-29T20:17:07.6619867+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-29T20:17:07.6622767+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:17:07.6623038+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 2ms reading results. (8e6fd384)
+2023-06-29T20:17:07.6623160+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:17:07.6623355+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:17:07.6640919+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:17:07.6641178+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:17:07.6641402+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:18:40.7426806+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:18:40.7427191+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:18:40.7427445+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:18:41.0372107+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:18:41.0372354+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:18:41.0372518+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:18:41.0379236+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:18:41.0383580+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:18:41.0383744+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:18:41.0383951+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:18:41.0384071+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:18:41.0384301+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:18:41.0384414+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:18:41.0384598+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:18:41.0384995+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-29T20:18:41.1197477+05:30  [INF] Executed DbCommand ("81"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-29T20:18:41.1198994+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-29T20:18:41.1199481+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:18:41.1199660+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:18:41.1199761+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:18:41.1200033+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:18:41.1200478+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:18:41.1200547+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:18:41.1200602+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:23:53.0894249+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:23:53.0895762+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:23:53.0897281+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:23:53.6024420+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:23:53.6024632+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:23:53.6024789+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:24:01.7956400+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:24:01.7956652+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:24:01.7956807+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:24:02.0223802+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:24:02.0224097+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:24:02.0224255+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:24:02.0232741+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:24:02.0238280+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:24:02.0238459+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:24:02.0238976+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:24:02.0239139+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:24:02.0239204+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:24:02.0239313+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:24:02.0239488+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:24:02.0239714+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:24:02.0830592+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:24:02.0831045+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:24:02.0831186+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:24:02.0831288+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:24:02.0831578+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:24:02.0835596+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:24:02.0835753+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:24:02.0835926+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:24:02.0836001+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:24:02.0836202+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:24:02.0836440+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:24:02.1434132+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:24:02.1434764+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:24:02.1434923+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:24:02.1435016+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:24:02.1435169+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:24:02.1435275+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:24:02.1435334+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:24:02.1435413+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:27:17.3887002+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:27:17.3887437+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:27:17.3887682+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:27:17.6272186+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:27:17.6272429+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:27:17.6272593+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:27:49.3754291+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:27:49.3754625+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:27:49.3754811+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:27:49.6052915+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:27:49.6053171+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:27:49.6053326+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:27:49.6063860+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:27:49.6072558+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:27:49.6072754+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:27:49.6072903+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:27:49.6074622+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:27:49.6074781+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:27:49.6074937+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:27:49.6075119+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:27:49.6076696+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:27:49.6670988+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:27:49.6671559+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:27:49.6672644+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:27:49.6672823+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:27:49.6672988+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:27:49.6677588+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:27:49.6677795+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:27:49.6678057+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:27:49.6678181+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:27:49.6678357+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:27:49.6678613+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:27:49.7277138+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:27:49.7277830+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:27:49.7278026+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:27:49.7278136+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:27:49.7278319+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:27:49.7278474+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:27:49.7278537+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:27:49.7278581+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:30:44.6960339+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:30:44.6960692+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:30:44.6961528+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:30:45.1833609+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:30:45.1833819+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:30:45.1834075+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:30:50.6017673+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:30:50.6017944+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:30:50.6018150+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:30:50.8324690+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:30:50.8324945+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:30:50.8325328+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:30:50.8335478+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:30:50.8343379+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:30:50.8343562+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:30:50.8343701+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:30:50.8343805+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:30:50.8343907+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:30:50.8344010+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:30:50.8344174+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:30:50.8344499+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:30:50.8930505+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:30:50.8931525+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:30:50.8932088+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:30:50.8932204+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:30:50.8932771+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:30:50.8937316+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:30:50.8937482+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:30:50.8939098+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:30:50.8939282+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:30:50.8939461+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:30:50.8939866+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:30:50.9537250+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:30:50.9538015+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:30:50.9538188+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:30:50.9538650+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:30:50.9538821+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:30:50.9538941+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:30:50.9539008+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:30:50.9539059+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:31:10.2089396+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:31:10.2089737+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:31:10.2089942+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:31:10.4446156+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:31:10.4446353+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:31:10.4446461+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:31:10.4453790+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:31:10.4459338+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:31:10.4459500+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:31:10.4459678+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:31:10.4459778+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:31:10.4459831+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:31:10.4459926+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:31:10.4460082+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:31:10.4460227+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:31:10.5047490+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:31:10.5048006+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:31:10.5048151+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:31:10.5048287+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:31:10.5048471+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:31:10.5051336+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:31:10.5051492+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:31:10.5051607+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:31:10.5051677+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:31:10.5051834+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:31:10.5052396+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:31:10.5647661+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:31:10.5648999+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:31:10.5649187+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:31:10.5649327+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:31:10.5649500+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:31:10.5649625+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:31:10.5649694+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:31:10.5649745+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:40:59.9320291+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:40:59.9320865+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:40:59.9322047+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:41:00.4298839+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:41:00.4299205+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:41:00.4299411+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:41:00.4309863+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:41:00.4321686+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:41:00.4321885+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:41:00.4322028+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:41:00.4322137+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:41:00.4322264+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:41:00.4322375+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:41:00.4322547+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:41:00.4322753+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:41:00.4920865+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:41:00.4921783+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:41:00.4921899+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:41:00.4921993+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:41:00.4922128+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:41:00.4924495+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:41:00.4924605+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:41:00.4924715+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:41:00.4924757+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:41:00.4924868+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:41:00.4925034+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:41:00.5527587+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:41:00.5528267+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:41:00.5528440+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:41:00.5528526+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:41:00.5528671+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:41:00.5528767+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:41:00.5528853+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:41:00.5528887+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:44:07.5882115+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:44:07.5882557+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:44:07.5882803+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:44:07.8206051+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:44:07.8206275+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:44:07.8206494+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:44:28.2368602+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:44:28.2368902+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:44:28.2369072+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:44:28.4673475+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:44:28.4673718+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:44:28.4673894+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:44:28.4683132+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:44:28.4688730+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:44:28.4688867+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:44:28.4688995+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:44:28.4689099+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:44:28.4689148+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:44:28.4689275+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:44:28.4689456+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:44:28.4689631+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:44:28.5285466+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:44:28.5286412+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:44:28.5286565+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:44:28.5286653+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:44:28.5286809+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:44:28.5289438+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:44:28.5289595+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:44:28.5289699+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:44:28.5289762+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:44:28.5289902+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:44:28.5290106+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:44:28.5905859+05:30  [INF] Executed DbCommand ("62"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:44:28.5906553+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:44:28.5906733+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:44:28.5906834+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:44:28.5907057+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:44:28.5907197+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:44:28.5907275+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:44:28.5907335+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:45:23.2386949+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:45:23.2387354+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:45:23.2387532+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:45:23.4725951+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:45:23.4726239+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:45:23.4726398+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:45:23.4739545+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:45:23.4748687+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:45:23.4748940+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:45:23.4749077+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:45:23.4749169+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:45:23.4749223+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:45:23.4749315+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:45:23.4749476+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:45:23.4749691+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:45:23.5343277+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:45:23.5343798+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:45:23.5343956+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:45:23.5344185+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:45:23.5344380+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:45:23.5347175+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:45:23.5347318+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:45:23.5347481+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:45:23.5347560+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:45:23.5347740+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:45:23.5348372+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:45:23.5965965+05:30  [INF] Executed DbCommand ("62"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:45:23.5966938+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:45:23.5967116+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:45:23.5967205+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:45:23.5967368+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:45:23.5967481+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:45:23.5967763+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:45:23.5967826+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:46:53.6945827+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:46:53.6946289+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:46:53.6946532+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:46:53.9236616+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:46:53.9236865+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:46:53.9237016+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-29T20:46:53.9245830+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-29T20:46:53.9252204+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:46:53.9252372+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-29T20:46:53.9252513+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-29T20:46:53.9252675+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:46:53.9252732+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:46:53.9252825+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:46:53.9252983+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:46:53.9253162+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-29T20:46:53.9845467+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-29T20:46:53.9846858+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:46:53.9847042+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:46:53.9847164+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:46:53.9847371+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:46:53.9850676+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-29T20:46:53.9850831+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-29T20:46:53.9851244+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-29T20:46:53.9851399+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-29T20:46:53.9851605+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-29T20:46:53.9851856+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-29T20:46:54.0442439+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-29T20:46:54.0442999+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-29T20:46:54.0443178+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-29T20:46:54.0443252+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-29T20:46:54.0443401+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-29T20:46:54.0444175+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-29T20:46:54.0444268+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-29T20:46:54.0444316+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)

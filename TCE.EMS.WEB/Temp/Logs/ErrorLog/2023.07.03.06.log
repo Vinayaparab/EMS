@@ -1,0 +1,35 @@
+
+ ERROR 03-Jul-2023 18:51:36 [13] - Exception :03512023185136107080 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:51:36 [9] - Exception :03512023185136066082 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:51:36 [12] - Exception :03512023185136019735 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:52:55 [7] - Exception :03522023185255954002 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:55:10 [9] - Exception :03552023185510532956 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:55:10 [10] - Exception :03552023185510441793 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 03-Jul-2023 18:55:10 [13] - Exception :03552023185510120059 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50

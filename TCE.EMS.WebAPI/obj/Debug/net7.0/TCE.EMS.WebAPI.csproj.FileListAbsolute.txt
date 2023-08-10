@@ -1,0 +1,1446 @@
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Text.Json.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Symmetric.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\TCE\TCE\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Text.Json.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Symmetric.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\TCE\TCE\EMS_WebAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Symmetric.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+C:\Users\BZ admin\Downloads\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\log4net.config
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\appsettings.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\log4net.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NPOI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Owin.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.WebAPIUtility.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\bin\Debug\net7.0\BZ.FW.WebAPIUtility.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\.NetCoreApplication\EMSwithAPI\ems\TCE.EMS.webapi\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.config
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.config
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\Merge copy\TCE22Jul2023\TCE\EMSwithAPI (4)\EMSwithAPI\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.config
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BZ.FW.WebAPIUtility.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\.NetCoreApplication\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\log4net.config
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\appsettings.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\log4net.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NPOI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.WebAPIUtility.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.WebUtility.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.WebUtility.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\bin\Debug\net7.0\BZ.FW.WebAPIUtility.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\TCE\EMS Migration\EMS_MigrationMerge\EMS_MigrationMerge\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\refint\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.Webapi\obj\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.config
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\appsettings.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.exe
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.deps.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.runtimeconfig.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.WebAPI.pdb
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Types.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EFCore.BulkExtensions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFramework.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Enums.NET.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\itextsharp.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\log4net.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Web.Http.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.Cookies.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Owin.Security.OAuth.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder2.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Practices.ObjectBuilder.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OOXML.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NPOI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.CommandLine.XPlat.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Commands.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Credentials.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Owin.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.File.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Bz.FW.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Bz.FW.WebAPIUtility.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\Bz.FW.WebUtility.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.dll
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\bin\Debug\net7.0\TCE.EMS.Services.pdb
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.AssemblyReference.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfoInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.AssemblyInfo.cs
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.TCE.EMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TCE.EMS.WebAPI.props
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\TCE.EMS.WebAPI.styles.css
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.csproj.CopyComplete
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\TCE.EMS.WebAPI.genruntimeconfig.cache
+D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WebAPI\obj\Debug\net7.0\ref\TCE.EMS.WebAPI.dll

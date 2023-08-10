@@ -1,0 +1,63 @@
+@{
+  ViewData["Title"] = "View Currency Master";
+}
+@section Scripts {
+
+  <script src="~/app/js/CurrencyView.js"></script>
+
+}
+
+<!-- ============================================================== -->
+<!-- Bread crumb and right sidebar toggle -->
+<!-- ============================================================== -->
+
+
+<!-- ============================================================== -->
+<!-- End Bread crumb and right sidebar toggle -->
+<!-- ============================================================== -->
+
+<!-- ============================================================== -->
+<!-- Container fluid  -->
+<!-- ============================================================== -->
+
+<div class="content-body">
+  <div class="container-fluid">
+    <div class="d-sm-flex align-items-center">
+      <div>
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-style1 mg-b-10">
+            <li class="breadcrumb-item"><a href="#">Master</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Currency</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header pd-y-15 d-md-flex align-items-center justify-content-between">
+        <div class="col-12">
+          <div class="d-md-flex align-items-center justify-content-between">
+            <h4 class="mg-b-0">Currency Master</h4>
+            <div>
+              <select class="form-select theme-select border-0 shadow-none" aria-label="Default select example"
+                id="FltrActive" onchange="CurrencyViewObj.Load()">
+                <option value="">All</option>
+                <option value="Y">Active</option>
+                <option value="N">InActive</option>
+              </select>
+              <button onclick="CurrencyViewObj.Add()" class="btn btn-white btn-xs"><i data-feather="plus"
+                  class="wd-10 mg-r-5"></i> Add New</button>
+              <button onclick="CurrencyViewObj.Refresh()" class="btn btn-primary btn-xs"><i data-feather="refresh-cw"
+                  class="wd-10 mg-r-5"></i>Refresh</button>
+            </div>
+          </div>
+        </div><!-- col -->
+      </div>
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table" id="CurrencyGrid">
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

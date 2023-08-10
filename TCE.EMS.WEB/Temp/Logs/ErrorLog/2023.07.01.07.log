@@ -1,0 +1,12 @@
+
+ ERROR 01-Jul-2023 19:53:51 [7] - Exception :01532023195351713076 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerDataAsync(String colValue, String command) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 71
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerList() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 84
+
+ ERROR 01-Jul-2023 19:56:45 [9] - Exception :01562023195645929036 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerDataAsync(String colValue, String command) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 71
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerList() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 84

@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TCE.EMS.WEB
+build_property.RootNamespace = TCE.EMS.WEB
+build_property.ProjectDir = D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WEB\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Apps\TCE\EMS Migration\EMS_Migration\EMS_Migration\EMS\TCE.EMS.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Currency/CurrencyForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VycmVuY3lcQ3VycmVuY3lGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Currency/CurrencyView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VycmVuY3lcQ3VycmVuY3lWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Error/UnAuthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcVW5BdXRob3JpemVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Error/ViewErr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcVmlld0Vyci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_HeaderPartial copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfSGVhZGVyUGFydGlhbCBjb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_LawyerLkpPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfTGF3eWVyTGtwUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfTWVudVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_PartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/PartialViews/_SearchResultsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfU2VhcmNoUmVzdWx0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e10979gv7q
+
+[D:/Apps/TCE/EMS Migration/EMS_Migration/EMS_Migration/EMS/TCE.EMS.WEB/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-3zvrcibmy5

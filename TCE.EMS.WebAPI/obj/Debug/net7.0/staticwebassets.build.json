@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+vaEq1H1BpFOaeRSCCKWn3GMx2/PxyINZmAyr6J57hg=",
+  "Source": "TCE.EMS.WebAPI",
+  "BasePath": "_content/TCE.EMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,88 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model BZ.FW.WebUtility.LoginUser
+
+@{
+    Layout = "_LoginLayout";
+    ViewData["Title"] = "Login Page";
+}
+
+@section Scripts{
+    <script type="text/javascript">
+        var OnRequestCompleted = function (xhr) {
+            console.log(xhr.responseText);
+            var mReturnReceipt = JSON.parse(xhr.responseText);
+
+            if (mReturnReceipt.IsSuccess != "Y") {
+
+                $("#divValidErrors").show();
+                $("#divValidErrors").text(mReturnReceipt.Msg);
+
+                $("#btnSubmit").show();
+                $("#lnkSubmitProgress").hide();
+                return;
+            }
+            var mReturnUrl = mReturnReceipt.ReturnUrl;
+            window.location.href = mReturnUrl;
+        };
+
+        var OnRequestStart = function () {
+            $("#btnSubmit").hide();
+            $("#lnkSubmitProgress").show();
+            $("#divValidErrors").text("");
+            $("#divValidErrors").hide();
+        }
+    </script>
+}
+
+<div class="content content-fixed content-auth">
+    <div class="container">
+        <div class="media align-items-stretch justify-content-center ht-100p pos-relative">
+            <div class="media-body align-items-center d-none d-lg-flex">
+                <div class="mx-wd-600">
+                    <img src="~/app/imgs/travel-expenses.png" class="img-fluid" alt="">
+                </div>
+                
+            </div><!-- media-body -->
+            <div class="sign-wrapper mg-lg-l-50 mg-xl-l-60">
+                <div class="wd-100p">
+                    <h3 class="tx-color-01 mg-b-5">Sign In</h3>
+                    <p class="tx-color-03 tx-16 mg-b-40">Welcome back! Please signin to continue.</p>
+
+                    <form id="frmLogin" method="post" data-ajax-url="@Url.Content("~/")Login/Authenticate"
+                        data-ajax="true" data-ajax-method="post" data-ajax-begin="OnRequestStart"
+                        data-ajax-complete="OnRequestCompleted">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div id="divValidErrors" style="display:none" class="text-danger margin-large-bottom">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1" class="form-label">Login Id</label>
+                            <input type="text" class="form-control" id="txtUserName" asp-for="@Model.Username">
+                            <span asp-validation-for="@Model.Username" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="d-flex justify-content-between mg-b-5">
+                                <label class="mg-b-0-f">Password</label>
+                            </div>
+                            <input type="password" class="form-control " id="txtPaswd" asp-for="@Model.Password"
+                                autocomplete="off">
+                            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <button id="btnSubmit" type="submit" class="btn btn-brand-02 btn-block">Login</button>
+                            <div class="uk-text-center">
+                                <a id="lnkSubmitProgress" href="javascript:void()" class="text-danger"
+                                    style="display:none;">
+                                    <img src="~/app/imgs/spinners/spinner_small@2x.gif" alt="" width="24" height="24">
+                                    Signing in, please wait...
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div><!-- sign-wrapper -->
+        </div><!-- media -->
+    </div><!-- container -->
+</div><!-- content -->
+

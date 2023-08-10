@@ -1,0 +1,84 @@
+<div class="form-group">
+    <button ng-click="AddKeywordDtlsStoreList();" class="btn btn-primary btn-xs"><i data-feather="plus"
+            class="wd-10 mg-r-5"></i>Add</button>
+    <button ng-click="DeleteKeywordDtlsStoreList($index)" class="btn btn-danger btn-xs"><i data-feather="trash-2"
+            class="wd-10 mg-r-5"></i>Delete</button>
+    <button ng-click="CopyKeywordDtlsStoreList($index)" class="btn btn-white btn-xs"><i data-feather="copy"
+            class="wd-10 mg-r-5"></i>Copy Rows</button>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-striped table-bordered table-sm Customtable" cellspacing="0" width="100%" id="tab_logic">
+        <tbody>
+            <!-- First and second rows per item -->
+            <tr ng-repeat-start="item in StoreDtls">
+                <!-- Table headers -->
+                <th>Sr.</th>
+                <th>Mode of Travel</th>
+                <th>Source Country</th>
+                <th>Source City</th>
+                <th>Destination Country</th>
+                <th>Destination City</th>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="check" /></td>
+                <td class="col-sm">
+                    <select class="form-control select2" name="TripMode">
+                        <option>--Select--</option>
+                        <option>Bus</option>
+                        <option>Car</option>
+                        <option>Rail</option>
+                        <option>Air</option>
+                        <option>Other</option>
+                    </select>
+                </td>
+                <td class="col-sm">
+                    <div class="autocompletebox" url="@Url.Content("~/")Lookup/GetCountry">
+                        <input type="text" class="form-control autocompletebox-text md-input">
+                        <input type="hidden" class="autocompletebox-value">
+                    </div>
+                </td>
+                <td class="col-sm">
+                    <label class="control-label">Destination</label>
+                </td>
+                <td class="col-sm">
+                    @* <div class="search-form">
+                    <input id="theBasics1" type="search" class="form-control"
+                    placeholder="Search States of USA">
+                    </div> *@
+                </td>
+                <td class="col-sm">
+                    <label class="control-label">Destination</label>
+                </td>
+            </tr>
+            <tr>
+                <th></th>
+                <th>From Date</th>
+                <th>To Date</th>
+                <th>Contact Person Name</th>
+                <th>Address</th>
+                <th>Telephone</th>
+            </tr>
+            <tr ng-repeat-end>
+                <td></td>
+                <td class="col-sm">
+                    <input type="Date" id="FromDt" class="form-control" placeholder="From Date" ng-model="item.FromDt">
+                </td>
+                <td class="col-sm">
+                    <input type="Date" id="ToDt" class="form-control" placeholder="To Date" ng-model="item.ToDt">
+                </td>
+                <td class="col-sm">
+                    <input ng-model="item.ContPn" id="ContactPersonName" type="text" class="form-control"
+                        placeholder="Contact Person Name">
+                </td>
+                <td class="col-sm">
+                    <textarea id="Addr" class="form-control" placeholder="Address" ng-model="item.Addr"></textarea>
+                </td>
+                <td class="col-sm">
+                    <input type="text" id="Telphone" class="form-control" placeholder="Telephone"
+                        ng-model="item.Telphone">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

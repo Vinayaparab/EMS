@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TCE.EMS.WebAPI.props" />
+</Project>

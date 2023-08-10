@@ -1,0 +1,235 @@
+.page-breadcrumb {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.topbar[data-navbarbg="skin6"] {
+  background-color1: rgba(0, 0, 0, 0.04) !important;
+  border-bottom1: solid 1px rgba(0, 0, 0, 0.04) !important;
+  background-image: url(../../../app/imgs/header-img.jpg) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.topbar {
+  height1: 50px;
+}
+
+.card {
+  background-color1: rgba(0, 0, 0, 0.01) !important;
+}
+.page-wrapper > .container-fluid {
+  padding-top: 20px;
+}
+.left-sidebar::before {
+  content: "";
+  background-image: url(../../../app/imgs/Navigator2.jpg) !important;
+  background-repeat: no-repeat !important;
+  background-size: auto !important;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: -360px;
+  opacity: 0.05;
+}
+.sidebar-nav ul {
+  background-color: transparent !important;
+}
+#main-wrapper[data-layout="vertical"][data-boxed-layout="boxed"] {
+  position: relative;
+  max-width: 1300px;
+  margin: 0 auto;
+  box-shadow: 1px 0 80px rgba(0, 0, 0, 0.2);
+}
+
+.form-select {
+  display: block;
+  width: 100%;
+  padding: 8px 36px 8px 12px;
+  -moz-padding-start: 9px;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #54667a;
+  background-color: transparent;
+  background-image: url(
+    data:image/svg + xml,
+    %3csvgxmlns="http://www.w3.org/2000/svg"viewBox="0 0 16 16"%3e%3cpathfill="none"stroke="%2311142d"stroke-linecap="round"stroke-linejoin="round"stroke-width="2"d="M2 5l6 6 6-6"/%3e%3c/svg%3e
+  );
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px 12px;
+  border: 1px solid #ecf0f2;
+  border-radius: 5px;
+  box-shadow: unset;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  appearance: none;
+}
+select {
+  word-wrap: normal;
+}
+
+select {
+  writing-mode: horizontal-tb !important;
+  font-style: ;
+  font-variant-ligatures: ;
+  font-variant-caps: ;
+  font-variant-numeric: ;
+  font-variant-east-asian: ;
+  font-weight: ;
+  font-stretch: ;
+  font-size: ;
+  font-family: ;
+  text-rendering: auto;
+  color: fieldtext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  appearance: auto;
+  box-sizing: border-box;
+  align-items: center;
+  white-space: pre;
+  -webkit-rtl-ordering: logical;
+  background-color: field;
+  cursor: default;
+  margin: 0em;
+  border-width: 1px;
+  border-style: solid;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-image: initial;
+  border-radius: 0px;
+}
+
+.theme-select {
+  background-color: #f1f9ff;
+  color: #777e89;
+  width: auto;
+  padding: 9px 33px 9px 16px;
+}
+
+.form-select {
+  background-image: url(../../../app/imgs/custom-select.png);
+  background-size: auto;
+}
+
+.btn-rounded-lg {
+  border-radius: 10px;
+}
+
+.mt-md-n5 {
+  margin-top: -3rem !important;
+}
+
+.feather-sm {
+  width: 18px;
+  height: 18px;
+}
+
+.mb-0 {
+  margin-bottom: 0px !important;
+}
+
+.nav-pills .nav-link {
+  background: 0 0;
+  border: 0;
+  border-radius: 4px;
+}
+
+/*Data Table Customization*/
+.table thead th {
+  color: #777e89 !important;
+  font-weight: 500 !important;
+}
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: #eff3f7 !important;
+  border-style: solid !important;
+  border-width: 1 !important;
+}
+
+#main-wrapper[data-layout="vertical"][data-boxed-layout="boxed"] {
+  min-height: 1000px !important;
+}
+
+.loader {
+  position: absolute;
+  z-index: 9;
+  background: yellow;
+  border: 1px solid red;
+  padding: 10px;
+  top: 50%;
+  left: 20%;
+}
+
+/**
+ * The dnd-list should always have a min-height,
+ * otherwise you can't drop to it once it's empty
+ */
+.DNDItems ul[dnd-list] {
+  min-height: 42px;
+  padding-left: 0px;
+}
+
+/**
+* The dndDraggingSource class will be applied to
+* the source element of a drag operation. It makes
+* sense to hide it to give the user the feeling
+* that he's actually moving it.
+*/
+.DNDItems ul[dnd-list] .dndDraggingSource {
+  display: none;
+}
+
+/**
+* An element with .dndPlaceholder class will be
+* added to the dnd-list while the user is dragging
+* over it.
+*/
+.DNDItems ul[dnd-list] .dndPlaceholder {
+  background-color: #ddd;
+  display: block;
+  min-height: 42px;
+}
+
+.DNDItems ul[dnd-list] li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  cursor: move;
+}
+
+/**
+* Show selected elements in green
+*/
+.DNDItemsk ul[dnd-list] li.selected {
+  background-color: #dff0d8;
+  color: #3c763d;
+}
+
+/* Added custom by Sharique Qureshi */
+.ct-series-a .ct-bar,
+.ct-series-a .ct-line,
+.ct-series-a .ct-point,
+.ct-series-a .ct-slice-donut {
+  stroke: #1e4db7;
+}
+.ct-series-b .ct-bar,
+.ct-series-b .ct-line,
+.ct-series-b .ct-point,
+.ct-series-b .ct-slice-donut {
+  stroke: #1a9bfc;
+}
+/* Added custom by Sharique Qureshi */

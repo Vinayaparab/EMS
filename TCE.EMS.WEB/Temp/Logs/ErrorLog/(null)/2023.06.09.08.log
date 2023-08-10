@@ -1,0 +1,15 @@
+
+ ERROR 09-Jun-2023 20:22:01 [13] - Exception :09222023202201320045
+User Id: 102660 
+ System.DivideByZeroException: Attempted to divide by zero.
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 59
+
+ ERROR 09-Jun-2023 20:56:00 [9] - Exception :09552023205553406932
+User Id: 102660 
+ System.DivideByZeroException: Attempted to divide by zero.
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 59
+
+ ERROR 09-Jun-2023 20:58:22 [12] - Exception :09582023205822532523
+User Id: 102660 
+ System.DivideByZeroException: Attempted to divide by zero.
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 59

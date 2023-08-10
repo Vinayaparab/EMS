@@ -1,0 +1,489 @@
+2023-04-03T16:19:14.0295491+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-04-03T16:19:15.5985871+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-04-03T16:19:15.7698253+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-04-03T16:19:15.7745453+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-04-03T16:19:15.7763703+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-04-03T16:19:15.7781432+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-04-03T16:19:16.7176016+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:19:16.7342820+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:19:16.9315121+05:30  [DBG] Created DbConnection. (196ms). (d2b2430c)
+2023-04-03T16:19:34.8186725+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:19:34.8218136+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:19:34.8295330+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-04-03T16:19:41.5820222+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:19:49.2120151+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:19:49.2120150+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:19:52.0445197+05:30  [DBG] Compiling query expression: "
+"'"DbSet<Student>()
+    .OrderBy(Student => Student.Name)
+    .Select(Student => new { 
+        Id = Student.Id, 
+        Name = Student.Name, 
+        Email = Student.Email, 
+        Phone = Student.Phone, 
+        Zip = Student.Zip, 
+        Hobbies = Student.Hobbies
+     })
+    .OrderBy( => .Id)
+    .Count()"' (e980d05f)
+2023-04-03T16:19:52.8271759+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Student AS s), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-04-03T16:19:52.8988543+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:52.8988580+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:52.8988911+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:52.8997423+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:19:52.8997424+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:19:52.8997977+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:19:52.9000375+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:19:52.9000944+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:19:52.9000839+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:19:52.9096498+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (2ms). (eb909d95)
+2023-04-03T16:19:52.9096469+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (2ms). (eb909d95)
+2023-04-03T16:19:52.9096828+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (2ms). (eb909d95)
+2023-04-03T16:19:52.9121580+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (13ms). (b50e332e)
+2023-04-03T16:19:52.9121640+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (13ms). (b50e332e)
+2023-04-03T16:19:52.9121643+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (13ms). (b50e332e)
+2023-04-03T16:19:52.9157920+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:52.9157928+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:52.9158243+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:52.9193400+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:52.9312349+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:19:53.1657478+05:30  [INF] Executed DbCommand ("229"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:19:53.1998868+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:53.2020566+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 33ms reading results. (8e6fd384)
+2023-04-03T16:19:53.2053194+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:53.2058174+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:53.2061212+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:19:53.2073629+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-04-03T16:19:53.2184382+05:30  [DBG] Compiling query expression: "
+"'"DbSet<Student>()
+    .OrderBy(Student => Student.Name)
+    .Select(Student => new { 
+        Id = Student.Id, 
+        Name = Student.Name, 
+        Email = Student.Email, 
+        Phone = Student.Phone, 
+        Zip = Student.Zip, 
+        Hobbies = Student.Hobbies
+     })
+    .OrderBy( => .Id)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-04-03T16:19:53.2431206+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<int, string, string, string, string, string>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            Id -> 0
+            Name -> 1
+            Email -> 2
+            Phone -> 3
+            Zip -> 4
+            Hobbies -> 5
+        SELECT s.id AS Id, s.Name, s.Email, s.Phone, s.Zip, s.Hobbies
+        FROM Student AS s
+        ORDER BY s.id ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<int, string, string, string, string, string>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-04-03T16:19:53.2536470+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:53.2538811+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:19:53.2569927+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (3ms). (b50e332e)
+2023-04-03T16:19:53.2574501+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:53.8195642+05:30  [INF] Executed DbCommand ("613"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:19:53.8210636+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:53.8217080+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 1ms reading results. (8e6fd384)
+2023-04-03T16:19:53.8224806+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:53.8227350+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:53.8230833+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:19:53.8251697+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:53.8252833+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:19:53.8253678+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:19:53.8254241+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:53.8317143+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:19:54.1506277+05:30  [INF] Executed DbCommand ("328"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:19:54.1523075+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:54.1523877+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 1ms reading results. (8e6fd384)
+2023-04-03T16:19:54.1525789+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:54.1526542+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:19:54.1526831+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:54.1527640+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:19:54.1528083+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:19:54.1533253+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:19:54.1534425+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:19:54.6052724+05:30  [INF] Executed DbCommand ("452"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:19:54.6057616+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:54.6058686+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:19:54.6059330+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:54.6060338+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:19:54.6061339+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:19:54.6061952+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:19:54.6062561+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:19:54.7139621+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:54.7140224+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:19:55.0398840+05:30  [INF] Executed DbCommand ("326"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:19:55.0400347+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:55.0400925+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:19:55.0401304+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:55.0401995+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:19:55.0409018+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:19:55.0409434+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:19:55.0410043+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:19:55.0410345+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:19:55.0411029+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:19:55.0412107+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:19:55.2229727+05:30  [INF] Executed DbCommand ("182"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:19:55.2234435+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:19:55.2235233+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:19:55.2235781+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:19:55.2236819+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:19:55.2237251+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:19:55.2237616+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:19:55.2237846+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:43:26.1692119+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:43:26.1723544+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:43:26.1724849+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:43:34.8281285+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:43:34.8282991+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:43:34.8283898+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:43:42.9483409+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:43:42.9527361+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:43:42.9527604+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:43:42.9527906+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:43:42.9528100+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:43:42.9528210+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:43:42.9528336+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:43:42.9529007+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:43:42.9529296+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:43:43.0300647+05:30  [INF] Executed DbCommand ("77"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:43:43.0301232+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:43:43.0301689+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:43:43.0301918+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:43:43.0302282+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:43:43.0306305+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:43:43.0306645+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:43:43.0306945+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:43:43.0307053+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:43:43.0307364+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:43:43.0307720+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:43:43.1483795+05:30  [INF] Executed DbCommand ("117"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:43:43.1484845+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:43:43.1485185+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:43:43.1485363+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:43:43.1485738+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:43:43.1485976+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:43:43.1486343+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:43:43.1486440+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:44:12.0893694+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:44:12.1061107+05:30  [DBG] Compiling query expression: "
+"'"DbSet<Student>()
+    .Select(Student => Student)
+    .Where(x => x.Phone == __vEmp_Phone_0 && x.Id != __vEmp_Id_1)
+    .Count()"' (e980d05f)
+2023-04-03T16:44:12.1402095+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Student AS s
+        WHERE (s.Phone == @__vEmp_Phone_0) && (s.id != @__vEmp_Id_1)), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-04-03T16:44:12.1489170+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:44:12.1489495+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:44:12.1489856+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:44:12.1490179+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:44:12.1497198+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:44:12.1497435+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:44:12.1498165+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:44:12.1499231+05:30  [DBG] Executing DbCommand [Parameters=["@__vEmp_Phone_0='2156216721' (Size = 100) (DbType = AnsiString), @__vEmp_Id_1='0'"], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]
+WHERE [s].[Phone] = @__vEmp_Phone_0 AND [s].[id] <> @__vEmp_Id_1" (65d11854)
+2023-04-03T16:44:12.3951986+05:30  [INF] Executed DbCommand ("245"ms) [Parameters=["@__vEmp_Phone_0='2156216721' (Size = 100) (DbType = AnsiString), @__vEmp_Id_1='0'"], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]
+WHERE [s].[Phone] = @__vEmp_Phone_0 AND [s].[id] <> @__vEmp_Id_1" (0723d8ff)
+2023-04-03T16:44:12.3952664+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:44:12.3953076+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:44:12.3953302+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:44:12.3953739+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:44:12.3953998+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:44:12.3954215+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:44:12.3954440+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:44:12.4014715+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:44:12.4906467+05:30  [DBG] '"AppDBContext"' generated temporary value '-2147482647' for the property '"Id"."Student"'. (2be84250)
+2023-04-03T16:44:12.5872904+05:30  [DBG] Context '"AppDBContext"' started tracking '"Student"' entity with key '"{Id: -2147482647}"'. (e90dcc49)
+2023-04-03T16:44:12.5911919+05:30  [DBG] SaveChanges starting for '"AppDBContext"'. (2e287ef6)
+2023-04-03T16:44:12.5941254+05:30  [DBG] DetectChanges starting for '"AppDBContext"'. (8cb1b8e5)
+2023-04-03T16:44:12.6062992+05:30  [DBG] DetectChanges completed for '"AppDBContext"'. (011b0427)
+2023-04-03T16:44:12.6899778+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:44:12.6900163+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:44:12.6900258+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:44:12.6900689+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:44:12.6909793+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:44:12.6910054+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:44:12.6910289+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:44:12.6910654+05:30  [DBG] Executing DbCommand [Parameters=["@p0='test' (Nullable = false) (Size = 100) (DbType = AnsiString), @p1='Dancing' (Size = 50) (DbType = AnsiString), @p2='Test' (Nullable = false) (Size = 100) (DbType = AnsiString), @p3='2156216721' (Nullable = false) (Size = 100) (DbType = AnsiString), @p4='78882382' (Nullable = false) (Size = 50) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Student] ([Email], [Hobbies], [Name], [Phone], [Zip])
+OUTPUT INSERTED.[id]
+VALUES (@p0, @p1, @p2, @p3, @p4);" (65d11854)
+2023-04-03T16:44:12.9933797+05:30  [INF] Executed DbCommand ("302"ms) [Parameters=["@p0='test' (Nullable = false) (Size = 100) (DbType = AnsiString), @p1='Dancing' (Size = 50) (DbType = AnsiString), @p2='Test' (Nullable = false) (Size = 100) (DbType = AnsiString), @p3='2156216721' (Nullable = false) (Size = 100) (DbType = AnsiString), @p4='78882382' (Nullable = false) (Size = 50) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Student] ([Email], [Hobbies], [Name], [Phone], [Zip])
+OUTPUT INSERTED.[id]
+VALUES (@p0, @p1, @p2, @p3, @p4);" (0723d8ff)
+2023-04-03T16:44:13.0438046+05:30  [DBG] The foreign key property '"Student"."Id"' was detected as changed from '-2147482647' to '2034' for entity with key '"{Id: 2034}"'. (733bdfde)
+2023-04-03T16:44:13.0504659+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:44:13.0506499+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 57ms reading results. (8e6fd384)
+2023-04-03T16:44:13.0511460+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:44:13.0512115+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:44:13.0665058+05:30  [DBG] The '"Student"' entity with key '"{Id: 2034}"' tracked by '"AppDBContext"' changed state from 'Added' to 'Unchanged'. (4d3f4cd7)
+2023-04-03T16:44:13.0678560+05:30  [DBG] SaveChanges completed for '"AppDBContext"' with 1 entities written to the database. (78a90622)
+2023-04-03T16:44:13.0679241+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:44:13.0679521+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:44:13.0679731+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:44:13.6793910+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:44:13.6799109+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:44:13.6799299+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:44:13.6799563+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:44:13.6799732+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:44:13.6799832+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:44:13.6800009+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:44:13.6800698+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:44:13.6800952+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:44:13.7869318+05:30  [INF] Executed DbCommand ("107"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:44:13.7870084+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:44:13.7870315+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:44:13.7870485+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:44:13.7870874+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:44:13.7876441+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:44:13.7876724+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:44:13.7876983+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:44:13.7877109+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:44:13.7877503+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:44:13.7878062+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:44:13.9275619+05:30  [INF] Executed DbCommand ("140"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:44:13.9276518+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:44:13.9277010+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:44:13.9277211+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:44:13.9277592+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:44:13.9277779+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:44:13.9277904+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:44:13.9277978+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:58:22.1825651+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:58:22.2061081+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:58:22.2063327+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:58:27.3841883+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:58:27.3842680+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:58:27.3843436+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:58:31.5596930+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:58:31.5604125+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:58:31.5604340+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:58:31.5604576+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:58:31.5604758+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:58:31.5604846+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:58:31.5604952+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:58:31.5605719+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:58:31.5605993+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:58:31.7589975+05:30  [INF] Executed DbCommand ("198"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:58:31.7590592+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:58:31.7590776+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:58:31.7590899+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:58:31.7591206+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:58:31.7594379+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:58:31.7594599+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:58:31.7594864+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:58:31.7594989+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:58:31.7595394+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:58:31.7595783+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:58:31.8165388+05:30  [INF] Executed DbCommand ("57"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:58:31.8166020+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:58:31.8166356+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:58:31.8166550+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:58:31.8166855+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:58:31.8167014+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:58:31.8167155+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:58:31.8167302+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:59:22.9123219+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:59:22.9131886+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:59:22.9132191+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:59:22.9132558+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:59:22.9132724+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:59:22.9132797+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:59:22.9132926+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:59:23.5591631+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:59:23.5594054+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:59:23.6423806+05:30  [INF] Executed DbCommand ("83"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:59:23.6424352+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:59:23.6424606+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:59:23.6424888+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:59:23.6425281+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:59:23.6429236+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:59:23.6431177+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:59:23.6431543+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:59:23.6431853+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:59:23.6432256+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:59:23.6436252+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:59:23.8471273+05:30  [INF] Executed DbCommand ("204"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:59:23.8472047+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:59:23.8472358+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:59:23.8472520+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:59:23.8473013+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:59:23.8473318+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:59:23.8473467+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:59:23.8473589+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-04-03T16:59:57.6355406+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-04-03T16:59:57.6361948+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:59:57.6362259+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-04-03T16:59:57.6362552+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-04-03T16:59:57.6362720+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:59:57.6362807+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:59:57.6362921+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:59:57.6363596+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:59:57.6363871+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (65d11854)
+2023-04-03T16:59:57.8900812+05:30  [INF] Executed DbCommand ("253"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Student] AS [s]" (0723d8ff)
+2023-04-03T16:59:57.8904008+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:59:57.8904979+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:59:57.8905775+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:59:57.8906504+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:59:57.8917233+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-04-03T16:59:57.8918093+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-04-03T16:59:57.8918761+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-04-03T16:59:57.8919065+05:30  [DBG] Opening connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-04-03T16:59:57.8919831+05:30  [DBG] Opened connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-04-03T16:59:57.8920544+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-04-03T16:59:58.0685266+05:30  [INF] Executed DbCommand ("176"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[id] AS [Id], [s].[Name], [s].[Email], [s].[Phone], [s].[Zip], [s].[Hobbies]
+FROM [Student] AS [s]
+ORDER BY [s].[id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-04-03T16:59:58.0687076+05:30  [DBG] Closing data reader to '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-04-03T16:59:58.0687724+05:30  [DBG] A data reader for '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-04-03T16:59:58.0688177+05:30  [DBG] Closing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-04-03T16:59:58.0688928+05:30  [DBG] Closed connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-04-03T16:59:58.0689319+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-04-03T16:59:58.0689793+05:30  [DBG] Disposing connection to database '"studentproject"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-04-03T16:59:58.0690261+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)

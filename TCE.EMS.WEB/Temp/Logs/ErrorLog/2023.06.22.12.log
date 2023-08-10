@@ -1,0 +1,12 @@
+
+ ERROR 22-Jun-2023 12:04:07 [13] - Exception :22042023120407747113 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Post[T](String vAPIController, String vAPIAction, Object vPostData) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 80
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 45
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 79
+
+ ERROR 22-Jun-2023 12:04:19 [13] - Exception :22042023120419819314 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Post[T](String vAPIController, String vAPIAction, Object vPostData) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 80
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 45
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 79

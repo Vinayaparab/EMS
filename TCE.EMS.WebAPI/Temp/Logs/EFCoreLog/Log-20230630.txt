@@ -1,0 +1,904 @@
+2023-06-30T11:27:23.0056246+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T11:27:23.0056887+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T11:27:23.0057894+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T11:27:26.9196694+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T11:27:26.9196924+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T11:27:26.9197109+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T11:51:57.8655000+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T11:51:57.8655406+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T11:51:57.8656514+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T11:51:58.3450763+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T11:51:58.3450997+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T11:51:58.3451170+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:01:35.8495962+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:01:35.8497491+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:01:35.8498680+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:01:37.0744722+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:01:37.0744968+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:01:37.0745130+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:04:20.8388853+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:04:20.8390541+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:04:20.8390869+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:04:21.0546414+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:04:21.0546729+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:04:21.0546923+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:13:18.6399943+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:13:18.6400972+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:13:18.6402544+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:13:19.1515501+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:13:19.1515914+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:13:19.1516069+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:18:54.1584844+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:18:54.1585345+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:18:54.1585643+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:18:55.1193270+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:18:55.1193535+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:18:55.1193766+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:19:01.0645291+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:19:01.0645714+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:19:01.0645998+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:19:01.8184504+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:19:01.8184715+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:19:01.8184847+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T12:19:01.8195527+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T12:19:01.8218230+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T12:19:01.8218411+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T12:19:01.8218550+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T12:19:01.8218695+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T12:19:01.8218746+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T12:19:01.8219105+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T12:19:01.8219282+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T12:19:01.8219874+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-30T12:19:01.9614692+05:30  [INF] Executed DbCommand ("139"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-30T12:19:01.9615279+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T12:19:01.9615704+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-30T12:19:01.9615815+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T12:19:01.9616181+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T12:19:01.9622055+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T12:19:01.9622222+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T12:19:01.9622351+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T12:19:01.9622424+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T12:19:01.9622999+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T12:19:01.9623533+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-30T12:19:02.0251292+05:30  [INF] Executed DbCommand ("63"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-30T12:19:02.0251954+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T12:19:02.0252169+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-30T12:19:02.0252291+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T12:19:02.0252493+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T12:19:02.0252620+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T12:19:02.0252693+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T12:19:02.0252751+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:04:05.3544931+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T17:04:06.0396776+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T17:04:06.1854403+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:04:06.1866906+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:04:06.1877454+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:04:06.1886825+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:04:06.8889539+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:04:06.8938213+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:04:06.9282022+05:30  [DBG] Created DbConnection. (32ms). (d2b2430c)
+2023-06-30T17:04:07.9759844+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:04:07.9780307+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:04:07.9847333+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T17:08:09.9912747+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T17:08:11.5485594+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T17:08:11.6274751+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:08:11.6284844+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:08:11.6291601+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:08:11.6298172+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:08:11.8809867+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:08:11.8970294+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:08:11.9270404+05:30  [DBG] Created DbConnection. (36ms). (d2b2430c)
+2023-06-30T17:08:12.8217210+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:08:12.8238375+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:08:12.8282023+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T17:22:33.0147303+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:22:33.0161046+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:22:33.0163291+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:22:33.4819189+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:22:33.4821599+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:22:33.4823044+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:38:23.7101000+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:38:23.7186043+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:38:23.7189350+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:38:24.2132141+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:38:24.2132772+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:38:24.2133116+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:41:20.9406939+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T17:41:21.7324176+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T17:41:21.8137523+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:41:21.8147224+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:41:21.8164022+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:41:21.8174430+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T17:41:22.0998954+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:41:22.1041895+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:41:22.1371810+05:30  [DBG] Created DbConnection. (30ms). (d2b2430c)
+2023-06-30T17:41:23.1656404+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:41:23.1676429+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:41:23.1726420+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T17:43:20.2845076+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:43:20.2856422+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:43:20.2859246+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:43:20.4935296+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:43:20.4937261+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:43:20.4938334+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:47:28.0136280+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:47:28.0217372+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:47:28.0217995+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:47:28.2345003+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:47:28.2345531+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:47:28.2345858+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:55:55.3354073+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:55:55.3358378+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:55:55.3360209+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:55:55.8730628+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:55:55.8731118+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:55:55.8731381+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T17:58:57.4333484+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T17:58:57.4334051+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T17:58:57.4334957+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T17:58:58.3320082+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T17:58:58.3320576+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T17:58:58.3320812+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:01:38.1613234+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:01:38.1614196+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:01:38.1614648+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:01:38.3902602+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:01:38.3903089+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:01:38.3903408+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:04:56.4568211+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:04:56.4570469+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:04:56.4570867+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:04:56.6857280+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:04:56.6857675+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:04:56.6857971+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:13:51.4377168+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:13:51.4377749+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:13:51.4379046+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:13:51.8988865+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:13:51.8989255+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:13:51.8989466+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:17:14.9508206+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:17:14.9508873+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:17:14.9509321+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:17:15.1734537+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:17:15.1734959+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:17:15.1735274+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:19:26.1506331+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:19:26.1510174+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:19:26.1510760+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:19:26.3722443+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:19:26.3723154+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:19:26.3723383+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:52:42.4165294+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:52:42.4165838+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:52:42.4167454+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:52:45.2383535+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:52:45.2384172+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:52:45.2384401+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T18:58:16.9298414+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T18:58:16.9299020+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T18:58:16.9299516+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T18:58:17.1725796+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T18:58:17.1726153+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T18:58:17.1726433+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:01:30.9395134+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:01:30.9397010+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:01:30.9397425+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:01:31.3915252+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:01:31.3915911+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:01:31.3916180+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:05:20.9293767+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:05:20.9294392+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:05:20.9294870+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:05:21.1682042+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:05:21.1682439+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:05:21.1682719+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:07:26.4662218+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:07:26.4663676+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:07:26.4664029+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:07:26.6747590+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:07:26.6747936+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:07:26.6748212+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:17:20.6382726+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:17:20.6383323+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:17:20.6384706+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:17:21.1676634+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:17:21.1676989+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:17:21.1677312+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:26:41.6860367+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:26:41.6861461+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:26:41.6862952+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:26:42.1647759+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:26:42.1648188+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:26:42.1648523+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:27:32.0546172+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:27:32.0546647+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:27:32.0546888+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:27:32.3014207+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:27:32.3014502+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:27:32.3014668+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:28:01.4097358+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:28:01.4097876+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:28:01.4098209+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:28:01.4716320+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:28:01.4716735+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:28:01.4717293+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:28:01.4738495+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:28:01.4738824+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:28:01.4739042+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:28:03.9243562+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:28:03.9243857+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:28:03.9244017+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:30:46.9780576+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T19:30:47.8361023+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T19:30:47.9252772+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:30:47.9271498+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:30:47.9282364+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:30:47.9293222+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:30:48.2136652+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:30:48.2178565+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:30:48.2663447+05:30  [DBG] Created DbConnection. (45ms). (d2b2430c)
+2023-06-30T19:30:50.2248222+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:30:50.2273863+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:30:50.2322866+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T19:31:14.2450329+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:31:14.2460643+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:31:14.2463378+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:31:14.3033350+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:31:14.3035720+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:31:14.3036730+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:31:14.3844168+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:31:14.3919141+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:31:14.3919682+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:31:14.4494388+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:31:14.4494955+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:31:14.4495196+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:34:26.4520989+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T19:34:27.7973324+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T19:34:27.8813409+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:34:27.8825817+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:34:27.8833565+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:34:27.8841387+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:34:28.1641692+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:34:28.1682985+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:34:28.2188252+05:30  [DBG] Created DbConnection. (48ms). (d2b2430c)
+2023-06-30T19:34:29.1511637+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:34:29.1530674+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:34:29.1572840+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:34:52.9319119+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:34:52.9406367+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:34:52.9409856+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:34:53.0027964+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:34:53.0031336+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:34:53.0033178+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:34:53.1046098+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:34:53.1166237+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:34:53.1166862+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:34:53.1764364+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:34:53.1764874+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:34:53.1765134+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:44:10.4863362+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T19:44:11.6477044+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T19:44:11.7305498+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:44:11.7322163+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:44:11.7333704+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:44:11.7344974+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:44:12.0468968+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:44:12.0508788+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:44:12.0829656+05:30  [DBG] Created DbConnection. (30ms). (d2b2430c)
+2023-06-30T19:44:12.6464441+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:44:12.6501978+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:44:12.6591415+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T19:44:12.6971251+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:44:12.6988334+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:44:12.6992807+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:44:12.7567689+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:44:12.7569863+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:44:12.7570687+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:47:01.1756553+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T19:47:01.9520741+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T19:47:02.2109921+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:47:02.2121983+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:47:02.2129304+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:47:02.2137739+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T19:47:02.5162193+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:47:02.5207024+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:47:02.5749092+05:30  [DBG] Created DbConnection. (49ms). (d2b2430c)
+2023-06-30T19:47:03.8945517+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:47:03.8977921+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:47:03.9054946+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T19:47:26.5576957+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:47:26.5594874+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:47:26.5598628+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:47:26.6226149+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:47:26.6228763+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:47:26.6230318+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:47:26.7391454+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:47:26.7730637+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:47:26.7731204+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:47:26.8336959+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:47:26.8337492+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:47:26.8337815+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:47:48.1873380+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:47:48.1874233+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:47:48.1874526+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:47:48.4115493+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:47:48.4115938+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:47:48.4116507+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:47:48.5304895+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:47:52.5153686+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Count()"' (e980d05f)
+2023-06-30T19:47:52.7774566+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Common AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-06-30T19:47:52.8125215+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T19:47:52.8128136+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:47:52.8128528+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:47:52.8194263+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (1ms). (eb909d95)
+2023-06-30T19:47:52.8207923+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (8ms). (b50e332e)
+2023-06-30T19:47:52.8221812+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T19:47:52.8239709+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T19:47:52.8335677+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-30T19:47:52.8999701+05:30  [INF] Executed DbCommand ("68"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-30T19:47:52.9046895+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T19:47:52.9062289+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 4ms reading results. (8e6fd384)
+2023-06-30T19:47:52.9088547+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T19:47:52.9095912+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-06-30T19:47:52.9141921+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-06-30T19:47:52.9264956+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<string, string, string, string, string, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            MstCode -> 0
+            MstText -> 1
+            MstType -> 2
+            MstValue -> 3
+            Active -> 4
+            LmodBy -> 5
+            LmodOn -> 6
+        SELECT t.MstCode, t.MstText, t.MstType, t.MstValue, t.Active, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Common AS t
+        ORDER BY t.MstCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<string, string, string, string, string, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-06-30T19:47:52.9308860+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T19:47:52.9309730+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T19:47:52.9323692+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (1ms). (b50e332e)
+2023-06-30T19:47:52.9325205+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T19:47:52.9326305+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T19:47:52.9346707+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-30T19:47:52.9946636+05:30  [INF] Executed DbCommand ("62"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-30T19:47:52.9961333+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T19:47:52.9962479+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 1ms reading results. (8e6fd384)
+2023-06-30T19:47:52.9964408+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T19:47:52.9965156+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T19:47:52.9965376+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:47:52.9965585+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:47:52.9965671+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:48:12.0546920+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:48:12.0550067+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:48:12.0551422+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:48:12.8850802+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:48:12.8851313+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:48:12.8851531+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:48:12.8881521+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:48:12.8926475+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .Select(c => c)
+    .Where(x => x.MstCode == __vId_0)
+    .FirstOrDefault()"' (e980d05f)
+2023-06-30T19:48:12.9378342+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<TblCommon>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: TblCommon.MstCode (string) Required PK AfterSave:Throw ValueGenerated.OnAdd MaxLength(10) Ansi, 0], [Property: TblCommon.Active (string) Required ValueGenerated.OnAdd MaxLength(1) Ansi, 1], [Property: TblCommon.CreatedBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 2], [Property: TblCommon.CreatedOn (DateTime) Required ValueGenerated.OnAdd, 3], [Property: TblCommon.LmodBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 4], [Property: TblCommon.LmodOn (DateTime) Required ValueGenerated.OnAdd, 5], [Property: TblCommon.MstText (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 6], [Property: TblCommon.MstType (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 7], [Property: TblCommon.MstValue (string) Required ValueGenerated.OnAdd MaxLength(50) Ansi, 8] }
+        SELECT TOP(1) t.MstCode, t.Active, t._CreatedBy, t._CreatedOn, t._LModBy, t._LModOn, t.MstText, t.MstType, t.MstValue
+        FROM Masters.tbl_Common AS t
+        WHERE t.MstCode == @__vId_0), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, TblCommon>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .SingleOrDefault()"' (02e79cda)
+2023-06-30T19:48:12.9455791+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T19:48:12.9456061+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:48:12.9456287+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:48:12.9456439+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T19:48:12.9462231+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T19:48:12.9462443+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T19:48:12.9463031+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T19:48:12.9463786+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-30T19:48:13.0072108+05:30  [INF] Executed DbCommand ("61"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-30T19:48:13.0586261+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-30T19:48:13.1048506+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T19:48:13.1049071+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 97ms reading results. (8e6fd384)
+2023-06-30T19:48:13.1049302+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T19:48:13.1050130+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T19:48:13.1072616+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:48:13.1073002+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:48:13.1073194+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:48:39.8035547+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:48:39.8037381+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:48:39.8037777+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:48:39.8655088+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:48:39.8655455+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:48:39.8655688+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:48:39.8669210+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:48:39.8669622+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:48:39.8669984+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:48:39.9277319+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:48:39.9277689+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:48:39.9277989+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:54:45.4685141+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:54:45.4686150+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:54:45.4693628+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:54:45.7611738+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:54:45.7612122+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:54:45.7612341+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:54:45.7622295+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:54:45.7622675+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:54:45.7622943+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:54:45.8168840+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:54:45.8169262+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:54:45.8169460+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:55:04.3960765+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:55:04.3962944+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:55:04.3963467+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:55:04.4518915+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:55:04.4521411+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:55:04.4521683+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:55:04.4529883+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:55:04.4530226+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:55:04.4530463+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:55:04.5059097+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:55:04.5059448+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:55:04.5059614+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:57:38.6795839+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:57:38.6796352+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:57:38.6796696+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:57:38.8858718+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:57:38.8859180+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:57:38.8859378+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:57:48.2413466+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:57:48.2413901+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:57:48.2414193+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:57:48.2972103+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:57:48.2972441+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:57:48.2972640+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:57:48.2983006+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:57:48.2983745+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:57:48.2984043+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:57:48.3515763+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:57:48.3516007+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:57:48.3516225+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:59:14.4126447+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:59:14.4126924+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:59:14.4127260+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:59:14.4687003+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:59:14.4687357+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:59:14.4687557+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T19:59:14.4694989+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T19:59:14.4695283+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T19:59:14.4695508+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T19:59:14.5231996+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T19:59:14.5232337+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T19:59:14.5232545+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:01:56.1883300+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:01:56.1883930+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:01:56.1884316+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:01:56.2738932+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:01:56.2739332+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:01:56.2739633+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:01:56.2754476+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:01:56.2754908+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:01:56.2755179+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:01:56.3314210+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:01:56.3314544+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:01:56.3314854+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:02:12.5101889+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:02:12.5102520+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:02:12.5102851+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:02:12.7147125+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:02:12.7147413+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:02:12.7147646+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:11:18.0256621+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T20:11:19.3881556+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T20:11:19.5017338+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:11:19.5032531+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:11:19.5042853+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:11:19.5053214+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:11:19.8009012+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:11:19.8051495+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:11:19.8582938+05:30  [DBG] Created DbConnection. (49ms). (d2b2430c)
+2023-06-30T20:11:21.8967325+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:11:21.8990239+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:11:21.9032627+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T20:14:39.0259254+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:14:39.0272554+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:14:39.0276078+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:14:39.2484728+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:14:39.2486645+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:14:39.2488108+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:15:24.6109074+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:15:24.6171241+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:15:24.6171778+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:15:24.8292084+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:15:24.8292660+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:15:24.8293067+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:15:25.1525106+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:15:26.8797222+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Count()"' (e980d05f)
+2023-06-30T20:15:27.0698250+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Common AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-06-30T20:15:27.0963406+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:15:27.0966084+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:15:27.0966701+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:15:27.1021782+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (1ms). (eb909d95)
+2023-06-30T20:15:27.1035880+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (7ms). (b50e332e)
+2023-06-30T20:15:27.1051340+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:15:27.1064807+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:15:27.1136001+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-30T20:15:27.1762662+05:30  [INF] Executed DbCommand ("62"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-30T20:15:27.1815316+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:15:27.1827042+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 5ms reading results. (8e6fd384)
+2023-06-30T20:15:27.1843985+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:15:27.1852450+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:15:27.1924910+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .OrderBy(TblCommon => TblCommon.MstCode)
+    .Select(TblCommon => new { 
+        MstCode = TblCommon.MstCode, 
+        MstText = TblCommon.MstText, 
+        MstType = TblCommon.MstType, 
+        MstValue = TblCommon.MstValue, 
+        Active = TblCommon.Active, 
+        LmodBy = TblCommon.LmodBy, 
+        LmodOn = TblCommon.LmodOn
+     })
+    .OrderBy( => .MstCode)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-06-30T20:15:27.2070942+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<string, string, string, string, string, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            MstCode -> 0
+            MstText -> 1
+            MstType -> 2
+            MstValue -> 3
+            Active -> 4
+            LmodBy -> 5
+            LmodOn -> 6
+        SELECT t.MstCode, t.MstText, t.MstType, t.MstValue, t.Active, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Common AS t
+        ORDER BY t.MstCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<string, string, string, string, string, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-06-30T20:15:27.2118967+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:15:27.2119829+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T20:15:27.2133577+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (1ms). (b50e332e)
+2023-06-30T20:15:27.2134862+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:15:27.2135737+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:15:27.2156078+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-30T20:15:27.2724849+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-30T20:15:27.2746561+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:15:27.2747963+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 2ms reading results. (8e6fd384)
+2023-06-30T20:15:27.2750326+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:15:27.2751210+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:15:27.2751431+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:15:27.2751588+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:15:27.2751764+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:15:43.5435671+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:15:43.5436440+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:15:43.5436800+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:15:43.7550491+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:15:43.7550894+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:15:43.7551103+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:15:43.7580522+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:15:43.7630776+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCommon>()
+    .Select(c => c)
+    .Where(x => x.MstCode == __vId_0)
+    .FirstOrDefault()"' (e980d05f)
+2023-06-30T20:15:43.8134136+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<TblCommon>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: TblCommon.MstCode (string) Required PK AfterSave:Throw ValueGenerated.OnAdd MaxLength(10) Ansi, 0], [Property: TblCommon.Active (string) Required ValueGenerated.OnAdd MaxLength(1) Ansi, 1], [Property: TblCommon.CreatedBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 2], [Property: TblCommon.CreatedOn (DateTime) Required ValueGenerated.OnAdd, 3], [Property: TblCommon.LmodBy (string) Required ValueGenerated.OnAdd MaxLength(10) Ansi, 4], [Property: TblCommon.LmodOn (DateTime) Required ValueGenerated.OnAdd, 5], [Property: TblCommon.MstText (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 6], [Property: TblCommon.MstType (string) Required ValueGenerated.OnAdd MaxLength(150) Ansi, 7], [Property: TblCommon.MstValue (string) Required ValueGenerated.OnAdd MaxLength(50) Ansi, 8] }
+        SELECT TOP(1) t.MstCode, t.Active, t._CreatedBy, t._CreatedOn, t._LModBy, t._LModOn, t.MstText, t.MstType, t.MstValue
+        FROM Masters.tbl_Common AS t
+        WHERE t.MstCode == @__vId_0), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, TblCommon>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .SingleOrDefault()"' (02e79cda)
+2023-06-30T20:15:43.8193731+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:15:43.8193978+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:15:43.8194259+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:15:43.8194406+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T20:15:43.8200364+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T20:15:43.8200570+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:15:43.8201082+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:15:43.8201862+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-30T20:15:43.8791170+05:30  [INF] Executed DbCommand ("59"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-30T20:15:43.9135789+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-30T20:15:43.9512898+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:15:43.9513310+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 72ms reading results. (8e6fd384)
+2023-06-30T20:15:43.9513444+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:15:43.9513748+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:15:43.9529686+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:15:43.9530054+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:15:43.9530211+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:17:01.0613186+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:17:01.0613641+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:17:01.0614020+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:17:01.2693008+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:17:01.2693482+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:17:01.2693742+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:17:01.2705160+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:17:01.2764238+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:17:01.2764598+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:17:01.2764911+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:17:01.2765129+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T20:17:01.2765211+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T20:17:01.2765396+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:17:01.2765835+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:17:01.2766037+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (65d11854)
+2023-06-30T20:17:01.3311982+05:30  [INF] Executed DbCommand ("55"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Common] AS [t]" (0723d8ff)
+2023-06-30T20:17:01.3313492+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:17:01.3313704+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-30T20:17:01.3313868+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:17:01.3314348+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:17:01.3321833+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:17:01.3322083+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T20:17:01.3322368+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T20:17:01.3322549+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:17:01.3322953+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:17:01.3323326+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-06-30T20:17:01.3868115+05:30  [INF] Executed DbCommand ("54"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[MstCode], [t].[MstText], [t].[MstType], [t].[MstValue], [t].[Active], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Common] AS [t]
+ORDER BY [t].[MstCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-06-30T20:17:01.3869767+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:17:01.3869998+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-06-30T20:17:01.3870141+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:17:01.3870436+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:17:01.3870595+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:17:01.3870724+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:17:01.3870833+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:17:12.1301683+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:17:12.1302155+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:17:12.1302454+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:17:12.3372963+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:17:12.3373451+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:17:12.3373647+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:17:12.8592384+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:17:12.8608110+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-06-30T20:17:12.8608362+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:17:12.8608648+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:17:12.8608820+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-06-30T20:17:12.8609152+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-06-30T20:17:12.8609340+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-06-30T20:17:12.8609948+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-06-30T20:17:12.8610350+05:30  [DBG] Executing DbCommand [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (65d11854)
+2023-06-30T20:17:12.9171211+05:30  [INF] Executed DbCommand ("56"ms) [Parameters=["@__vId_0='C01' (Size = 10) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [t].[MstCode], [t].[Active], [t].[_CreatedBy], [t].[_CreatedOn], [t].[_LModBy], [t].[_LModOn], [t].[MstText], [t].[MstType], [t].[MstValue]
+FROM [Masters].[tbl_Common] AS [t]
+WHERE [t].[MstCode] = @__vId_0" (0723d8ff)
+2023-06-30T20:17:12.9193390+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCommon"' entity with key '"{MstCode: C01}"'. (e90dcc49)
+2023-06-30T20:17:12.9198762+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-06-30T20:17:12.9199139+05:30  [DBG] A data reader for '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 2ms reading results. (8e6fd384)
+2023-06-30T20:17:12.9199287+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-06-30T20:17:12.9199573+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-06-30T20:17:12.9219207+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:17:12.9219541+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:17:12.9219707+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:25:22.0991144+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T20:25:23.1720452+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T20:25:23.2854346+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:25:23.2874200+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:25:23.2888123+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:25:23.2936200+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:25:23.7115053+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:25:23.7172926+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:25:23.7696584+05:30  [DBG] Created DbConnection. (50ms). (d2b2430c)
+2023-06-30T20:25:25.0149079+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:25:25.0177441+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:25:25.0241345+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T20:27:57.3453686+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T20:27:58.3340618+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T20:27:58.4310200+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:27:58.4319759+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:27:58.4325997+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:27:58.4332172+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:27:58.8026285+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:27:58.8100558+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:27:58.8427014+05:30  [DBG] Created DbConnection. (27ms). (d2b2430c)
+2023-06-30T20:27:59.4276913+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:27:59.4306125+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:27:59.4383567+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-06-30T20:27:59.4644408+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:27:59.4660195+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:27:59.4664208+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:27:59.5254432+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:27:59.5256736+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:27:59.5258044+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:28:34.5286583+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:28:34.5348257+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:28:34.5348868+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:28:34.6032887+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:28:34.6033967+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:28:34.6034309+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:28:34.6049498+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:28:34.6049910+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:28:34.6050174+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:28:34.6606255+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:28:34.6606750+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:28:34.6607113+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-06-30T20:30:56.5082719+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-06-30T20:30:57.2914100+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-06-30T20:30:57.3886753+05:30  [WRN] The decimal property '"MstId"' is part of a key on entity type '"TblCommonMst"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:30:57.3897369+05:30  [WRN] The decimal property '"EmpId"' is part of a key on entity type '"TblEmp"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:30:57.3905842+05:30  [WRN] The decimal property '"UserId"' is part of a key on entity type '"TblUser"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:30:57.3913821+05:30  [WRN] The decimal property '"Aclid"' is part of a key on entity type '"TblUserAcl"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-06-30T20:30:57.7773154+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:30:57.7870153+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:30:57.8424687+05:30  [DBG] Created DbConnection. (53ms). (d2b2430c)
+2023-06-30T20:30:58.5094692+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:30:58.5137863+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:30:58.5218214+05:30  [DBG] Disposed connection to database '""' on server '""' (3ms). (5521379b)
+2023-06-30T20:30:58.5518574+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-06-30T20:30:58.5535830+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-06-30T20:30:58.5539380+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-06-30T20:30:58.6182929+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-06-30T20:30:58.6184716+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Demo"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-06-30T20:30:58.6185637+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)

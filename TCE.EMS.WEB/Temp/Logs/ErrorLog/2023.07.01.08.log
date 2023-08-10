@@ -1,0 +1,18 @@
+
+ ERROR 01-Jul-2023 20:12:35 [14] - Exception :01122023201235737917 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Post[T](String vAPIController, String vAPIAction, Object vPostData) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 81
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 45
+   at TCE.EMS.Web.Controllers.CommonController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\CommonController.cs:line 91
+
+ ERROR 01-Jul-2023 20:40:58 [10] - Exception :01402023204058902869 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerDataAsync(String colValue, String command) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 71
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerList() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 84
+
+ ERROR 01-Jul-2023 20:41:03 [15] - Exception :01412023204103560401 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 54
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerDataAsync(String colValue, String command) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 71
+   at TCE.EMS.WEB.Controllers.LookUpController.GetLawyerList() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 84

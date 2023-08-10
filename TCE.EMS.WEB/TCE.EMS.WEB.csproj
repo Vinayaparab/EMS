@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TCE.EMS.Services\TCE.EMS.Services.csproj" />
+    <Reference Include="Bz.FW">
+      <HintPath>..\Lib\Bz.FW.dll</HintPath>
+     </Reference>
+    <Reference Include="Bz.FW.WebAPIUtility">
+    <HintPath>..\Lib\Bz.FW.WebAPIUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Bz.FW.WebUtility">
+    <HintPath>..\Lib\Bz.FW.WebUtility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="MicroSoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
+    <PackageReference Include="Microsoft.Practices.EnterpriseLibrary.2008" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Practices.EnterpriseLibrary.Common.dll" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Practices.ObjectBuilder.dll" Version="3.1.0" />
+    <PackageReference Include="SwashBuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.Reflection" Version="4.3.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

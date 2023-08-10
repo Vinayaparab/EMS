@@ -1,0 +1,970 @@
+2023-07-11T11:55:41.7537686+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T11:55:42.5043643+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T11:55:42.6200711+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T11:55:44.5857021+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T11:55:44.5869715+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T11:55:44.6511406+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T11:55:47.5746527+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T11:55:48.2171219+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2173586+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2211587+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2222414+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2223559+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2312199+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.2426943+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.3233923+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.3239059+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.3240429+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.3241757+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:48.3243082+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T11:55:51.9482291+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:55:51.9551074+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:55:52.1371865+05:30  [DBG] Created DbConnection. (179ms). (d2b2430c)
+2023-07-11T11:55:55.3932770+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:55:55.3952649+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:55:55.3992730+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T11:56:12.0242810+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:12.0258640+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:56:12.0282565+05:30  [DBG] Created DbConnection. (2ms). (d2b2430c)
+2023-07-11T11:56:12.6022153+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:56:12.6024709+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:56:12.6026043+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:56:12.8509485+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:19.7420995+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblRemndConfig>()
+    .OrderBy(TblRemndConfig => TblRemndConfig.ConfigId)
+    .Select(TblRemndConfig => new { 
+        ConfigId = TblRemndConfig.ConfigId, 
+        DocType = TblRemndConfig.DocType, 
+        DueDays = TblRemndConfig.DueDays, 
+        CreatedOn = TblRemndConfig.CreatedOn, 
+        CreatedBy = TblRemndConfig.CreatedBy, 
+        LmodOn = TblRemndConfig.LmodOn, 
+        LmodBy = TblRemndConfig.LmodBy, 
+        IsActive = TblRemndConfig.IsActive, 
+        WfStage = TblRemndConfig.WfStage
+     })
+    .OrderBy( => .ConfigId)
+    .Count()"' (e980d05f)
+2023-07-11T11:56:20.0296931+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_RemndConfig AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-07-11T11:56:20.0538434+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T11:56:20.0542441+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:56:20.0542843+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:56:20.0599351+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (2ms). (eb909d95)
+2023-07-11T11:56:20.0612199+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (8ms). (b50e332e)
+2023-07-11T11:56:20.0627812+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T11:56:20.0637892+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T11:56:20.0718020+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_RemndConfig] AS [t]" (65d11854)
+2023-07-11T11:56:20.2750126+05:30  [INF] Executed DbCommand ("202"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_RemndConfig] AS [t]" (0723d8ff)
+2023-07-11T11:56:20.2817946+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T11:56:20.2830660+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 6ms reading results. (8e6fd384)
+2023-07-11T11:56:20.2854775+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T11:56:20.2867588+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-07-11T11:56:20.2917883+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblRemndConfig>()
+    .OrderBy(TblRemndConfig => TblRemndConfig.ConfigId)
+    .Select(TblRemndConfig => new { 
+        ConfigId = TblRemndConfig.ConfigId, 
+        DocType = TblRemndConfig.DocType, 
+        DueDays = TblRemndConfig.DueDays, 
+        CreatedOn = TblRemndConfig.CreatedOn, 
+        CreatedBy = TblRemndConfig.CreatedBy, 
+        LmodOn = TblRemndConfig.LmodOn, 
+        LmodBy = TblRemndConfig.LmodBy, 
+        IsActive = TblRemndConfig.IsActive, 
+        WfStage = TblRemndConfig.WfStage
+     })
+    .OrderBy( => .ConfigId)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-07-11T11:56:20.3042537+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType7<int, string, int, DateTime, string, DateTime, string, string, decimal?>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            ConfigId -> 0
+            DocType -> 1
+            DueDays -> 2
+            CreatedOn -> 3
+            CreatedBy -> 4
+            LmodOn -> 5
+            LmodBy -> 6
+            IsActive -> 7
+            WfStage -> 8
+        SELECT t.ConfigID AS ConfigId, t.DocType, t.DueDays, t._CreatedOn AS CreatedOn, t._CreatedBy AS CreatedBy, t._LModOn AS LmodOn, t._LModBy AS LmodBy, t.IsActive, t.WF_Stage AS WfStage
+        FROM Masters.tbl_RemndConfig AS t
+        ORDER BY t.ConfigID ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType7<int, string, int, DateTime, string, DateTime, string, string, decimal?>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-07-11T11:56:20.3102020+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T11:56:20.3102839+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T11:56:20.3120855+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (1ms). (b50e332e)
+2023-07-11T11:56:20.3122313+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T11:56:20.3123325+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T11:56:20.3152039+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[ConfigID] AS [ConfigId], [t].[DocType], [t].[DueDays], [t].[_CreatedOn] AS [CreatedOn], [t].[_CreatedBy] AS [CreatedBy], [t].[_LModOn] AS [LmodOn], [t].[_LModBy] AS [LmodBy], [t].[IsActive], [t].[WF_Stage] AS [WfStage]
+FROM [Masters].[tbl_RemndConfig] AS [t]
+ORDER BY [t].[ConfigID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-07-11T11:56:20.3777998+05:30  [INF] Executed DbCommand ("65"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[ConfigID] AS [ConfigId], [t].[DocType], [t].[DueDays], [t].[_CreatedOn] AS [CreatedOn], [t].[_CreatedBy] AS [CreatedBy], [t].[_LModOn] AS [LmodOn], [t].[_LModBy] AS [LmodBy], [t].[IsActive], [t].[WF_Stage] AS [WfStage]
+FROM [Masters].[tbl_RemndConfig] AS [t]
+ORDER BY [t].[ConfigID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-07-11T11:56:20.4019679+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T11:56:20.4021125+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 24ms reading results. (8e6fd384)
+2023-07-11T11:56:20.4026913+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T11:56:20.4028253+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T11:56:20.4028527+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:56:20.4028743+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:56:20.4029662+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:56:25.8908956+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:25.8987271+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:56:25.8987884+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:56:26.1231051+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:56:26.1231542+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:56:26.1231781+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:56:26.1303128+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:26.1329344+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblProcessConfig>()
+    .OrderBy(TblProcessConfig => TblProcessConfig.ConfigId)
+    .Select(TblProcessConfig => new { 
+        ConfigId = TblProcessConfig.ConfigId, 
+        ConfigCode = TblProcessConfig.ConfigCode, 
+        ConfigDesc = TblProcessConfig.ConfigDesc, 
+        ConfigValue = TblProcessConfig.ConfigValue, 
+        CreatedBy = TblProcessConfig.CreatedBy, 
+        CreatedOn = TblProcessConfig.CreatedOn, 
+        LmodBy = TblProcessConfig.LmodBy, 
+        LmodOn = TblProcessConfig.LmodOn, 
+        IsActive = TblProcessConfig.IsActive
+     })
+    .OrderBy( => .ConfigId)
+    .Count()"' (e980d05f)
+2023-07-11T11:56:26.1354889+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_ProcessConfig AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-07-11T11:56:26.1357671+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T11:56:26.1357854+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:56:26.1358336+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:56:26.1358525+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T11:56:26.1358691+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T11:56:26.1358900+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T11:56:26.1359450+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T11:56:26.1359776+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_ProcessConfig] AS [t]" (65d11854)
+2023-07-11T11:56:26.2888875+05:30  [INF] Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_ProcessConfig] AS [t]" (0723d8ff)
+2023-07-11T11:56:26.2890552+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T11:56:26.2890820+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T11:56:26.2890999+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T11:56:26.2891384+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T11:56:26.2898788+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblProcessConfig>()
+    .OrderBy(TblProcessConfig => TblProcessConfig.ConfigId)
+    .Select(TblProcessConfig => new { 
+        ConfigId = TblProcessConfig.ConfigId, 
+        ConfigCode = TblProcessConfig.ConfigCode, 
+        ConfigDesc = TblProcessConfig.ConfigDesc, 
+        ConfigValue = TblProcessConfig.ConfigValue, 
+        CreatedBy = TblProcessConfig.CreatedBy, 
+        CreatedOn = TblProcessConfig.CreatedOn, 
+        LmodBy = TblProcessConfig.LmodBy, 
+        LmodOn = TblProcessConfig.LmodOn, 
+        IsActive = TblProcessConfig.IsActive
+     })
+    .OrderBy( => .ConfigId)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-07-11T11:56:26.2931031+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType8<decimal, string, string, string, string, DateTime, string, DateTime, string>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            ConfigId -> 0
+            ConfigCode -> 1
+            ConfigDesc -> 2
+            ConfigValue -> 3
+            CreatedBy -> 4
+            CreatedOn -> 5
+            LmodBy -> 6
+            LmodOn -> 7
+            IsActive -> 8
+        SELECT t.ConfigId, t.ConfigCode, t.ConfigDesc, t.ConfigValue, t._CreatedBy AS CreatedBy, t._CreatedOn AS CreatedOn, t._LModBy AS LmodBy, t._LModOn AS LmodOn, t.IsActive
+        FROM Masters.tbl_ProcessConfig AS t
+        ORDER BY t.ConfigId ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType8<decimal, string, string, string, string, DateTime, string, DateTime, string>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-07-11T11:56:26.2936152+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T11:56:26.2936414+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T11:56:26.2936681+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T11:56:26.2936833+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T11:56:26.2937183+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T11:56:26.2937542+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[ConfigId], [t].[ConfigCode], [t].[ConfigDesc], [t].[ConfigValue], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn], [t].[IsActive]
+FROM [Masters].[tbl_ProcessConfig] AS [t]
+ORDER BY [t].[ConfigId]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-07-11T11:56:26.3876146+05:30  [INF] Executed DbCommand ("94"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[ConfigId], [t].[ConfigCode], [t].[ConfigDesc], [t].[ConfigValue], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn], [t].[IsActive]
+FROM [Masters].[tbl_ProcessConfig] AS [t]
+ORDER BY [t].[ConfigId]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-07-11T11:56:26.3883979+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T11:56:26.3884375+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T11:56:26.3884566+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T11:56:26.3884972+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T11:56:26.3885167+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:56:26.3885343+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:56:26.3885429+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:56:30.5715546+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:30.5717153+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:56:30.5717451+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:56:30.7982212+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:56:30.7982556+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:56:30.7982731+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:56:30.8043425+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:56:30.9621311+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:57:41.9572008+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:57:41.9572558+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:57:41.9572960+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:57:42.1954206+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:57:42.1954854+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:57:42.1955178+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:57:42.1968473+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:57:42.4353054+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:58:46.1761299+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:58:46.1761825+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:58:46.1762285+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:58:46.3948760+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:58:46.3949186+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:58:46.3949435+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:58:46.3961976+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:58:46.4484495+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:59:02.3911238+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:59:02.3911711+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T11:59:02.3912015+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T11:59:02.6221400+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T11:59:02.6221662+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T11:59:02.6221849+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T11:59:58.1002547+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T11:59:58.1571110+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:00:10.3277764+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:00:10.3278260+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:00:10.3278576+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:00:10.5593002+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:00:10.5593394+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:00:10.5593615+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:00:10.5608620+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:00:10.6014457+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:00:25.2836011+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:00:25.2836536+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:00:25.2836918+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:00:25.5178396+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:00:25.5178745+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:00:25.5178960+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:00:48.8982229+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:00:58.8436493+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:02:53.7091372+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:02:53.7091952+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:02:53.7092313+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:02:53.9346757+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:02:53.9347075+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:02:53.9347272+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:02:53.9358830+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:02:53.9741656+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:03:12.8392649+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:03:12.8393128+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:03:12.8393433+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:03:13.0796854+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:03:13.0797174+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:03:13.0797374+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:04:05.7436495+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:04:48.6405431+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:09:47.0725459+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:09:47.0725974+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:09:47.0727328+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:09:47.6812543+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:09:47.6812983+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:09:47.6813212+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:10:10.7667567+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:10:10.9527995+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:10:51.3173761+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:10:51.3174328+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:10:51.3174687+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:10:51.5504140+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:10:51.5504515+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:10:51.5504780+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:11:31.3839089+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:15:55.4851008+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:15:57.5790780+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:15:57.5791266+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:15:57.5791633+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:15:57.8195064+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:15:57.8195383+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:15:57.8196378+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:15:57.8208139+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:15:57.8514688+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:17:07.8609419+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:17:07.8609964+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:17:07.8610338+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:17:08.1024938+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:17:08.1025271+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:17:08.1025515+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:17:16.9801453+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:17:16.9801865+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:17:16.9802101+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:17:17.2124247+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:17:17.2126090+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:17:17.2126359+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:17:17.2141740+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:17:17.2656673+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:17:34.0893340+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:17:34.0894724+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:17:34.0894989+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:17:34.3345231+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:17:34.3345525+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:17:34.3345730+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:17:55.9033761+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:18:02.2124550+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblUserAcl>()
+    .OrderBy(TblUserAcl => TblUserAcl.UserAclid)
+    .Select(TblUserAcl => new { 
+        UserAclid = TblUserAcl.UserAclid, 
+        UserId = TblUserAcl.UserId, 
+        Aclcode = TblUserAcl.Aclcode, 
+        RoleCode = TblUserAcl.RoleCode, 
+        CreatedBy = TblUserAcl.CreatedBy, 
+        CreatedOn = TblUserAcl.CreatedOn, 
+        ModifiedBy = TblUserAcl.ModifiedBy, 
+        ModifiedOn = TblUserAcl.ModifiedOn
+     })
+    .OrderBy( => .Aclcode)
+    .Count()"' (e980d05f)
+2023-07-11T12:18:02.2158607+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_UserACL AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-07-11T12:18:02.2160800+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:18:02.2161138+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:18:02.2161367+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:18:02.2161494+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:18:02.2161580+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:18:02.2161677+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:18:02.2162203+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:18:02.2162437+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_UserACL] AS [t]" (65d11854)
+2023-07-11T12:18:02.2805238+05:30  [INF] Executed DbCommand ("64"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_UserACL] AS [t]" (0723d8ff)
+2023-07-11T12:18:02.2805735+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:18:02.2806045+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:18:02.2806174+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:18:02.2806377+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:18:03.5002697+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblUserAcl>()
+    .OrderBy(TblUserAcl => TblUserAcl.UserAclid)
+    .Select(TblUserAcl => new { 
+        UserAclid = TblUserAcl.UserAclid, 
+        UserId = TblUserAcl.UserId, 
+        Aclcode = TblUserAcl.Aclcode, 
+        RoleCode = TblUserAcl.RoleCode, 
+        CreatedBy = TblUserAcl.CreatedBy, 
+        CreatedOn = TblUserAcl.CreatedOn, 
+        ModifiedBy = TblUserAcl.ModifiedBy, 
+        ModifiedOn = TblUserAcl.ModifiedOn
+     })
+    .OrderBy( => .Aclcode)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-07-11T12:18:03.5044517+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType10<int, string, string, string, string, DateTime, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            UserAclid -> 0
+            UserId -> 1
+            Aclcode -> 2
+            RoleCode -> 3
+            CreatedBy -> 4
+            CreatedOn -> 5
+            ModifiedBy -> 6
+            ModifiedOn -> 7
+        SELECT t.UserACLId AS UserAclid, t.UserID AS UserId, t.ACLCode AS Aclcode, t.RoleCode, t.CreatedBy, t.CreatedOn, t.ModifiedBy, t.ModifiedOn
+        FROM Masters.tbl_UserACL AS t
+        ORDER BY t.ACLCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType10<int, string, string, string, string, DateTime, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-07-11T12:18:03.5050153+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:18:03.5050436+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:18:03.5050594+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:18:03.5050689+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:18:03.5051094+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:18:03.5051474+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[UserACLId] AS [UserAclid], [t].[UserID] AS [UserId], [t].[ACLCode] AS [Aclcode], [t].[RoleCode], [t].[CreatedBy], [t].[CreatedOn], [t].[ModifiedBy], [t].[ModifiedOn]
+FROM [Masters].[tbl_UserACL] AS [t]
+ORDER BY [t].[ACLCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-07-11T12:18:03.5719717+05:30  [INF] Executed DbCommand ("67"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[UserACLId] AS [UserAclid], [t].[UserID] AS [UserId], [t].[ACLCode] AS [Aclcode], [t].[RoleCode], [t].[CreatedBy], [t].[CreatedOn], [t].[ModifiedBy], [t].[ModifiedOn]
+FROM [Masters].[tbl_UserACL] AS [t]
+ORDER BY [t].[ACLCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-07-11T12:18:03.5726617+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:18:03.5726893+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:18:03.5727023+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:18:03.5727304+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:18:05.2866790+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:18:05.2867139+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:18:05.2867401+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:32.9859216+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:32.9859726+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:32.9862275+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:33.2082545+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:33.2082855+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:33.2083044+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:33.2129879+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:33.2142793+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblRole>()
+    .OrderBy(TblRole => TblRole.RoleCode)
+    .Select(TblRole => new { 
+        RoleCode = TblRole.RoleCode, 
+        RoleDesc = TblRole.RoleDesc, 
+        CreatedBy = TblRole.CreatedBy, 
+        CreatedOn = TblRole.CreatedOn, 
+        LmodBy = TblRole.LmodBy, 
+        LmodOn = TblRole.LmodOn
+     })
+    .OrderBy( => .RoleCode)
+    .Count()"' (e980d05f)
+2023-07-11T12:19:33.2160497+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Roles AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-07-11T12:19:33.2161568+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:33.2161725+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:33.2161940+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:33.2162039+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:33.2162083+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:33.2162145+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:33.2162457+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:33.2162677+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (65d11854)
+2023-07-11T12:19:33.2798536+05:30  [INF] Executed DbCommand ("64"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (0723d8ff)
+2023-07-11T12:19:33.2799226+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:33.2799403+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:33.2799616+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:33.2799796+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:33.2810263+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblRole>()
+    .OrderBy(TblRole => TblRole.RoleCode)
+    .Select(TblRole => new { 
+        RoleCode = TblRole.RoleCode, 
+        RoleDesc = TblRole.RoleDesc, 
+        CreatedBy = TblRole.CreatedBy, 
+        CreatedOn = TblRole.CreatedOn, 
+        LmodBy = TblRole.LmodBy, 
+        LmodOn = TblRole.LmodOn
+     })
+    .OrderBy( => .RoleCode)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-07-11T12:19:33.2849610+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType9<string, string, string, DateTime, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            RoleCode -> 0
+            RoleDesc -> 1
+            CreatedBy -> 2
+            CreatedOn -> 3
+            LmodBy -> 4
+            LmodOn -> 5
+        SELECT t.RoleCode, t.RoleDesc, t._CreatedBy AS CreatedBy, t._CreatedOn AS CreatedOn, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Roles AS t
+        ORDER BY t.RoleCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType9<string, string, string, DateTime, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-07-11T12:19:33.2854485+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:33.2854712+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:33.2854875+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:33.2854982+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:33.2855365+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:33.2855775+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-07-11T12:19:33.3490488+05:30  [INF] Executed DbCommand ("63"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-07-11T12:19:33.3497889+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:33.3498159+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:33.3498322+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:33.3498652+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:33.3498821+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:33.3498916+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:33.3499033+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:46.5686388+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:46.5687631+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:46.5687876+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:46.7955978+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:46.7956255+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:46.7956402+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:46.7966636+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:46.7999473+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:46.7999722+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:46.7999920+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:46.8000013+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:46.8000057+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:46.8000133+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:46.8000322+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:46.8000491+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (65d11854)
+2023-07-11T12:19:46.8607946+05:30  [INF] Executed DbCommand ("61"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (0723d8ff)
+2023-07-11T12:19:46.8608512+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:46.8608825+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:46.8608926+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:46.8609169+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:46.8618210+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblRole>()
+    .OrderBy(TblRole => TblRole.RoleCode)
+    .Select(TblRole => new { 
+        RoleCode = TblRole.RoleCode, 
+        RoleDesc = TblRole.RoleDesc, 
+        CreatedBy = TblRole.CreatedBy, 
+        CreatedOn = TblRole.CreatedOn, 
+        LmodBy = TblRole.LmodBy, 
+        LmodOn = TblRole.LmodOn
+     })
+    .OrderBy( => .RoleCode)
+    .Skip(__p_0)
+    .Take(__p_0)"' (e980d05f)
+2023-07-11T12:19:46.8648724+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType9<string, string, string, DateTime, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            RoleCode -> 0
+            RoleDesc -> 1
+            CreatedBy -> 2
+            CreatedOn -> 3
+            LmodBy -> 4
+            LmodOn -> 5
+        SELECT t.RoleCode, t.RoleDesc, t._CreatedBy AS CreatedBy, t._CreatedOn AS CreatedOn, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Roles AS t
+        ORDER BY t.RoleCode ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType9<string, string, string, DateTime, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-07-11T12:19:46.8650538+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:46.8650697+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:46.8650829+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:46.8650893+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:46.8651039+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:46.8651280+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY" (65d11854)
+2023-07-11T12:19:46.9265012+05:30  [INF] Executed DbCommand ("61"ms) [Parameters=["@__p_0='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY" (0723d8ff)
+2023-07-11T12:19:46.9265658+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:46.9265835+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:46.9265939+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:46.9266105+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:46.9266224+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:46.9266307+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:46.9266489+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:47.6379720+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:47.6380128+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:47.6380371+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:47.8609745+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:47.8609977+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:47.8610123+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T12:19:47.8617891+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T12:19:47.8621353+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:47.8621533+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T12:19:47.8621748+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T12:19:47.8621856+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:47.8621918+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:47.8622007+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:47.8622164+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:47.8622367+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (65d11854)
+2023-07-11T12:19:47.9221668+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Roles] AS [t]" (0723d8ff)
+2023-07-11T12:19:47.9222159+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:47.9222322+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:47.9222421+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:47.9222638+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:47.9225140+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-07-11T12:19:47.9225305+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-07-11T12:19:47.9225473+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-07-11T12:19:47.9225551+05:30  [DBG] Opening connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-07-11T12:19:47.9225715+05:30  [DBG] Opened connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-07-11T12:19:47.9226074+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='20', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-07-11T12:19:47.9828853+05:30  [INF] Executed DbCommand ("60"ms) [Parameters=["@__p_0='20', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[RoleCode], [t].[RoleDesc], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Roles] AS [t]
+ORDER BY [t].[RoleCode]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-07-11T12:19:47.9829606+05:30  [DBG] Closing data reader to '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-07-11T12:19:47.9829794+05:30  [DBG] A data reader for '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-07-11T12:19:47.9829892+05:30  [DBG] Closing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-07-11T12:19:47.9830071+05:30  [DBG] Closed connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-07-11T12:19:47.9830196+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T12:19:47.9830283+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T12:19:47.9830388+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T13:03:35.8840375+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T13:03:36.2936644+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:03:36.4181163+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:03:38.9186717+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:03:38.9195264+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:03:38.9854321+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T13:03:41.2121837+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T13:03:41.8754519+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.8756567+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.8803700+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.8813684+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.8814802+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.8943724+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:41.9102304+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:42.0423916+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:42.0434788+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:42.0437097+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:42.0439312+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:42.0441419+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:03:45.9060908+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T13:03:45.9102338+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T13:03:45.9553692+05:30  [DBG] Created DbConnection. (42ms). (d2b2430c)
+2023-07-11T13:03:46.9301094+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T13:03:46.9326318+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T13:03:46.9393750+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T13:08:37.2314803+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T13:08:37.6172893+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:08:37.7400687+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:08:39.7381762+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:08:39.7391176+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:08:39.8063369+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T13:08:42.3546560+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T13:08:43.0688587+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0690566+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0732016+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0743468+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0744958+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0850051+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.0965730+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.1845406+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.1853840+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.1855752+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.1857637+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:43.1859371+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:08:47.1944125+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T13:08:47.1993414+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T13:08:47.2433577+05:30  [DBG] Created DbConnection. (41ms). (d2b2430c)
+2023-07-11T13:08:48.1760990+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T13:08:48.1787439+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T13:08:48.1845460+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T13:38:26.5274245+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T13:38:26.9253501+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:38:27.0505868+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:38:29.4516515+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:38:29.4528204+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T13:38:29.5309851+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T13:38:32.1457213+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T13:38:33.0367391+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0369109+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0407191+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0417376+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0418506+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0522789+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.0618342+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.1442273+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.1451064+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.1453037+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.1454950+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:33.1456751+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T13:38:37.1642527+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T13:38:37.1712668+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T13:38:37.2266591+05:30  [DBG] Created DbConnection. (53ms). (d2b2430c)
+2023-07-11T13:38:38.4010191+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T13:38:38.4029225+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T13:38:38.4068600+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T18:47:43.6883291+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T18:47:44.0880703+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T18:47:44.1922919+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T18:47:46.1177962+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T18:47:46.1188614+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T18:47:46.1926486+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T18:47:48.6031633+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T18:47:49.3725782+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.3727421+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.3786672+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.3797826+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.3799281+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.3892856+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4015180+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4878221+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4883665+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4885258+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4887095+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:49.4888433+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T18:47:53.2093855+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T18:47:53.2126190+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T18:47:53.2540964+05:30  [DBG] Created DbConnection. (38ms). (d2b2430c)
+2023-07-11T18:47:54.0758912+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T18:47:54.0775964+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T18:47:54.0812754+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T18:57:58.8726358+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T18:57:58.8737890+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T18:57:58.8739557+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T18:57:59.3151656+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T18:57:59.3153667+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T18:57:59.3155402+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:03:00.3693408+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:03:00.3755630+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:03:00.3757691+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:03:00.5888343+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:03:00.5888916+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:03:00.5889154+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:13:43.9927489+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T19:13:44.5786793+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:13:44.7277975+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:13:47.1311225+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:13:47.1319740+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:13:47.2041816+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T19:13:49.5470519+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T19:13:50.2511687+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2514165+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2582553+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2597582+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2599378+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2744360+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.2894150+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.3741364+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.3746457+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.3747830+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.3749217+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:50.3750452+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:13:54.0364866+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:13:54.0413053+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:13:54.0901972+05:30  [DBG] Created DbConnection. (46ms). (d2b2430c)
+2023-07-11T19:13:55.1115238+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:13:55.1143754+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:13:55.1193086+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T19:20:04.5000050+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:20:04.5015484+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:20:04.5019709+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:20:04.7311297+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:20:04.7313342+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:20:04.7314401+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:22:05.6607275+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:22:05.6698464+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:22:05.6699321+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:22:05.8774097+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:22:05.8774874+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:22:05.8775224+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:22:39.9055315+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:22:39.9055819+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:22:39.9056204+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:22:40.1134834+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:22:40.1135264+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:22:40.1135499+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:23:22.1412876+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:23:22.1413475+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:23:22.1413792+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:23:22.3499457+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:23:22.3499831+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:23:22.3500175+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:23:35.7777916+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:23:35.7778500+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:23:35.7778949+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:23:35.9850884+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:23:35.9851358+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:23:35.9851613+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:24:13.5989671+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:24:13.5990242+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:24:13.5990629+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:24:13.8143595+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:24:13.8144032+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:24:13.8144320+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:25:17.3167383+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:25:17.3168084+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:25:17.3168408+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:25:17.5241610+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:25:17.5242065+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:25:17.5242288+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:28:20.4878614+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T19:28:20.9169756+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:28:21.0338797+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:28:24.2451325+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:28:24.2477751+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:28:24.3520361+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T19:28:27.1024318+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T19:28:28.0212228+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0217885+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0289327+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0311995+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0314381+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0488607+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.0639329+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.1780055+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.1792280+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.1794814+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.1797193+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:28.1799464+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:28:31.9773300+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:28:31.9814249+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:28:32.0103120+05:30  [DBG] Created DbConnection. (26ms). (d2b2430c)
+2023-07-11T19:28:32.7402708+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:28:32.7422346+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:28:32.7462995+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T19:28:51.7847162+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:28:51.7863796+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:28:51.7868067+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:28:56.7652392+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:28:56.7654451+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:28:56.7655848+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:46:30.3031156+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:46:30.3105318+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:46:30.3106691+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-07-11T19:46:30.9130131+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:46:30.9130672+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:46:30.9130879+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-07-11T19:49:28.3939098+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-07-11T19:49:28.7819353+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:49:28.8901222+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:49:32.2952577+05:30  [DBG] No relationship from '"TblVendor"' to '"TblmState"' has been configured by convention because there are multiple properties on one entity type - "{'Supply', 'VendStateCodeNavigation'}" that could be matched with the properties on the other entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:49:32.2969760+05:30  [DBG] No relationship from '"TblmState"' to '"TblVendor"' has been configured by convention because there are multiple properties on one entity type - "{'TblVendorSupplies', 'TblVendorVendStateCodeNavigations'}" that could be matched with the properties on the other entity type - "{'Supply', 'VendStateCodeNavigation'}". This message can be disregarded if explicit configuration has been specified in 'OnModelCreating'. (5736df08)
+2023-07-11T19:49:32.3791734+05:30  [DBG] The index "{'TripId'}" was not created on entity type '"TblTripBalSheet"' as the properties are already covered by the index "{'TripId', 'Currency'}". (38ef85b8)
+2023-07-11T19:49:35.1621565+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-07-11T19:49:36.6343450+05:30  [WRN] The decimal property '"AttachId"' is part of a key on entity type '"TblAttachment"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6345146+05:30  [WRN] The decimal property '"Pid"' is part of a key on entity type '"TblAutoUpload"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6386718+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategory"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6399174+05:30  [WRN] The decimal property '"ExpId"' is part of a key on entity type '"TblExpCategoryOld"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6400317+05:30  [WRN] The decimal property '"ForexId"' is part of a key on entity type '"TblForex"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6541524+05:30  [WRN] The decimal property '"ConfigId"' is part of a key on entity type '"TblProcessConfig"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.6705178+05:30  [WRN] The decimal property '"TripId"' is part of a key on entity type '"TblTrip"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.8070683+05:30  [WRN] The decimal property '"RequestId"' is part of a key on entity type '"TblTripTranspDtlsOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.8076129+05:30  [WRN] The decimal property '"VisitId"' is part of a key on entity type '"TblTripVisitPurposeOg"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.8077407+05:30  [WRN] The decimal property '"VendorId"' is part of a key on entity type '"TblVendor"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.8078604+05:30  [WRN] The decimal property '"AccessId"' is part of a key on entity type '"TblWfGlobalRight"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:36.8079723+05:30  [WRN] The decimal property '"StateId"' is part of a key on entity type '"TblmState"'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. (f95da386)
+2023-07-11T19:49:46.4704146+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:49:46.4704096+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-07-11T19:49:46.4762319+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:49:46.4762429+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-07-11T19:49:46.5063360+05:30  [DBG] Created DbConnection. (27ms). (d2b2430c)
+2023-07-11T19:49:46.5063439+05:30  [DBG] Created DbConnection. (27ms). (d2b2430c)
+2023-07-11T19:49:47.2522267+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:49:47.2558159+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:49:47.2626640+05:30  [DBG] Disposed connection to database '""' on server '""' (1ms). (5521379b)
+2023-07-11T19:49:50.1448744+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-07-11T19:49:50.1451845+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS_Revamp"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-07-11T19:49:50.1457803+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)

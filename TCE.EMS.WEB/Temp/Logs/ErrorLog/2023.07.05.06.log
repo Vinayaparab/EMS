@@ -1,0 +1,54 @@
+
+ ERROR 05-Jul-2023 18:27:53 [13] - Exception :05272023182753164804
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:30:22 [18] - Exception :05302023183022405207
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:30:23 [20] - Exception :05302023183023323204
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:30:28 [20] - Exception :05302023183028072958
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:34:45 [10] - Exception :05342023183444017179
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:34:45 [9] - Exception :05342023183444044794
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:34:45 [18] - Exception :05342023183445451074
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:35:10 [18] - Exception :05352023183510926538
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50
+
+ ERROR 05-Jul-2023 18:36:04 [18] - Exception :05362023183604479410
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.DataGridHelper.GetDataList(Controller CurrObj, IConfiguration vConfiguration, UserObj mUserObj, String vAPIControllerName, String vAPIActionName, List`1 vFilters) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\DataGridHelper.cs:line 47
+   at TCE.EMS.WEB.Controllers.LookUpController.GetViewData(String IsStatus) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\LookUpController.cs:line 50

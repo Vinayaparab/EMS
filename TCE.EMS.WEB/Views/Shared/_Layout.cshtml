@@ -1,0 +1,173 @@
+﻿@{
+    BZ.FW.User.UserObj? _UserObj = BZ.FW.WebUtility.SessionManager.GetUserObj(this.Context);
+}
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EMS</title>
+
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon.png">
+
+
+
+    <link href="~/themes/dashforge/lib/fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/jqvmap/jqvmap.min.css" rel="stylesheet">
+
+    <link href="~/themes/dashforge/lib/typicons.font/typicons.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/prismjs/themes/prism-vs.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/datatables.net-dt/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css" rel="stylesheet">
+    <link href="~/themes/dashforge/lib/select2/css/select2.min.css" rel="stylesheet">
+  
+
+
+    <!-- DashForge CSS -->
+    <link rel="stylesheet" href="~/themes/dashforge/css/dashforge.css">
+    <link rel="stylesheet" href="~/themes/dashforge/css/dashforge.dashboard.css">
+    <link rel="stylesheet" href="~/themes/dashforge/css/skin.deepblue.css">
+    <link rel="stylesheet" href="~/themes/dashforge/css/skin.cool.css">
+    <link rel="stylesheet" href="~/themes/dashforge/css/dashforge.profile.css">
+
+    <link href="~/libs/std/bootstrap/dist/css/ui-bootstrap-csp.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/custom.css">
+</head>
+
+<body ng-app="myApp">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <div class="lds-ripple">
+            <div class="lds-pos"></div>
+            <div class="lds-pos"></div>
+        </div>
+    </div>
+    <div class="content ht-100v pd-0">
+        <partial name="PartialViews/_MenuPartial" />
+        <div class="content ht-100v pd-0">
+            <partial name="PartialViews/_HeaderPartial" />
+            <!-- ============================================================== -->
+            <!-- Page wrapper  -->
+            <!-- ============================================================== -->
+            <div class="page-wrapper">
+                @RenderBody()
+                <partial name="PartialViews/_FooterPartial" />
+            </div>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Page wrapper  -->
+    <!-- ============================================================== -->
+
+    <script src="~/libs/std/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/libs/std/other/jquery.cookie.min.js"></script>
+
+    <script src="~/themes/dashforge/lib/jqueryui/jquery-ui.min.js"></script>
+
+    <script src="~/themes/dashforge/lib/feather-icons/feather.min.js"></script>
+    <!-- Validations Libraries -->
+    <script src="~/libs/std/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/libs/std/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/libs/std/jquery-unobtrusive/jquery.unobtrusive-ajax.js"></script>
+
+    <script src="~/themes/dashforge/lib/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="~/themes/dashforge/lib/jquery.flot/jquery.flot.js"></script>
+    <script src="~/themes/dashforge/lib/jquery.flot/jquery.flot.stack.js"></script>
+    <script src="~/themes/dashforge/lib/jquery.flot/jquery.flot.resize.js"></script>
+    <script src="~/themes/dashforge/lib/chart.js/Chart.bundle.min.js"></script>
+    <script src="~/themes/dashforge/lib/jqvmap/jquery.vmap.min.js"></script>
+    <script src="~/themes/dashforge/lib/jqvmap/maps/jquery.vmap.usa.js"></script>
+
+    <!--IMPORTANT JS-->
+    <script src="~/libs/std/other/modernizr-2.6.2.js"></script>
+    <script src="~/libs/std/other/respond.js"></script>
+    <!--Angular dependencies-->
+    <script src="~/libs/std/angularjs/angular.min.js"></script>
+    <script src="~/libs/std/angularjs/angular-drag-and-drop-lists.js"></script>
+
+    @* <script src="~/libs/std/bootstrap/dist/js/modal-bootstrap-tpls.min.js"></script> comment *@
+    <script src="~/themes/dashforge/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/libs/std/bootstrap/dist/js/ui-bootstrap.js"></script>
+    <script src="~/libs/std/bootstrap/dist/js/ui-bootstrap-tpls.min.js"></script>
+
+    <!--Datepicker dependencies-->
+    <link href="~/libs/std/datepicker/css/bootstrap-datepicker.min.css" rel="stylesheet" />
+    <script src="~/libs/std/datepicker/js/bootstrap-datepicker.min.js"></script>
+    <!--Custom Grid dependencies-->
+
+
+    <script src="~/themes/dashforge/lib/prismjs/prism.js"></script>
+    <script src="~/themes/dashforge/lib/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/themes/dashforge/lib/datatables.net-dt/js/dataTables.dataTables.min.js"></script>
+    <script src="~/themes/dashforge/lib/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/themes/dashforge/lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js"></script>
+    <script src="~/libs/cst/DataGrid/BZComp.DataGrid.js?v=2"></script>
+    <script src="~/libs/cst/DataGrid/BZComp.LkpDataGrid.js"></script>
+    <script src="~/themes/dashforge/lib/select2/js/select2.min.js"></script>
+
+
+
+    <!--Custom Alert dependencies-->
+    <link href="~/libs/std/sweetalert/sweetalert2.min.css" rel="stylesheet" />
+    <script src="~/libs/std/sweetalert/sweetalert2.min.js"></script>
+
+
+    <script src="~/themes/dashforge/lib/typeahead.js/typeahead.bundle.min.js"></script>
+    <script src="~/themes/dashforge/js/dashforge.settings.js"></script>
+    <script src="~/themes/dashforge/js/dashforge.js"></script>
+    @* <script src="~/themes/dashforge/js/dashboard-one.js"></script> *@
+    <script src="~/themes/dashforge/js/dashforge.aside.js"></script>
+
+    <script src="~/libs/cst/Common.js"></script>
+    <script src="~/libs/cst/helpers/formhelper.js"></script>
+    <script src="~/libs/cst/helpers/Pagehelper.js"></script>
+    <script src="~/libs/cst/helpers/ModalHelper.js"></script>
+    <script src="~/libs/cst/helpers/QueryStringHelper.js"></script>
+    <script src="~/libs/cst/helpers/AlertHelper.js"></script>
+
+    <script src="~/libs/cst/helpers/UserLocalNotifHelper.js"></script>
+
+
+
+    <script type="text/javascript">
+
+        function Logout() {
+            debugger;
+            PageHelper.Redirect("@Url.Content("~/")Login/Logout");
+        }
+        var _RootUrl = "@Url.Content("~/")";
+        var app = angular.module("myApp", ["ui.bootstrap"]);
+        app.config(function ($controllerProvider) {
+            app.cp = $controllerProvider;
+        });
+
+        var DatePickerComp = {
+            BindDatePicker() {
+                $.fn.datepicker.defaults.format = "dd/M/yyyy";
+
+                $('.datepicker').datepicker({
+                    autoclose: true,
+                    keyboardNavigation: true,
+                    //forceParse: true
+                });
+            }
+        }
+
+        //Global Settings
+        DatePickerComp.BindDatePicker();
+
+        $(function () {
+            UserLocalNotifHelper.ShowMsg();
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

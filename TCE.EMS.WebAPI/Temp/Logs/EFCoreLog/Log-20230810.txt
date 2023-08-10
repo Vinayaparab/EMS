@@ -1,0 +1,490 @@
+2023-08-10T11:51:25.4278383+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-08-10T11:51:26.8584555+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-08-10T11:51:27.5919942+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:51:27.6338202+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:51:28.2860719+05:30  [DBG] Created DbConnection. (667ms). (d2b2430c)
+2023-08-10T11:51:31.4658926+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:51:31.4752423+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:51:31.4880452+05:30  [DBG] Disposed connection to database '""' on server '""' (7ms). (5521379b)
+2023-08-10T11:52:09.3059696+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:52:09.3079652+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:52:09.3084602+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:52:09.5642504+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:52:09.5693842+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:52:09.5705990+05:30  [DBG] Disposed connection to database '""' on server '""' (4ms). (5521379b)
+2023-08-10T11:55:06.2333062+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:55:06.2441180+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:55:06.2441959+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:55:06.4494580+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:55:06.4495298+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:55:06.4496690+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:56:30.8906255+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:56:30.8907327+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:56:30.8907615+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:56:31.0512517+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:56:31.0513159+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:56:31.0513427+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:56:31.3651115+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:56:37.3196129+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:56:37.3196775+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:56:37.3197121+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:56:37.4489521+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:56:37.4490020+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:56:37.4490314+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:56:37.4715805+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:56:41.5890442+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCurrency>()
+    .OrderBy(TblCurrency => TblCurrency.CurrCode)
+    .Select(TblCurrency => new { 
+        DocId = TblCurrency.DocId, 
+        CurrCode = TblCurrency.CurrCode, 
+        CurrName = TblCurrency.CurrName, 
+        IsActive = TblCurrency.IsActive, 
+        OrderNo = TblCurrency.OrderNo, 
+        IsAdvance = TblCurrency.IsAdvance, 
+        CreatedBy = TblCurrency.CreatedBy, 
+        CreatedOn = TblCurrency.CreatedOn, 
+        LmodBy = TblCurrency.LmodBy, 
+        LmodOn = TblCurrency.LmodOn
+     })
+    .OrderBy( => .DocId)
+    .Count()"' (e980d05f)
+2023-08-10T11:56:42.3589845+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Currency AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-08-10T11:56:42.5099765+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:56:42.5099755+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:56:42.5107970+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:56:42.5108520+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:56:42.5107970+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:56:42.5110834+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:56:42.5316432+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (4ms). (eb909d95)
+2023-08-10T11:56:42.5316409+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (5ms). (eb909d95)
+2023-08-10T11:56:42.5344400+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (25ms). (b50e332e)
+2023-08-10T11:56:42.5344448+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (26ms). (b50e332e)
+2023-08-10T11:56:42.5442849+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:56:42.5442862+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:56:42.5470558+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:56:42.5697397+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (65d11854)
+2023-08-10T11:56:42.6742155+05:30  [INF] Executed DbCommand ("86"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (0723d8ff)
+2023-08-10T11:56:42.7068260+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:56:42.7094025+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 32ms reading results. (8e6fd384)
+2023-08-10T11:56:42.7131098+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:56:42.7148960+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-08-10T11:56:42.7328505+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCurrency>()
+    .OrderBy(TblCurrency => TblCurrency.CurrCode)
+    .Select(TblCurrency => new { 
+        DocId = TblCurrency.DocId, 
+        CurrCode = TblCurrency.CurrCode, 
+        CurrName = TblCurrency.CurrName, 
+        IsActive = TblCurrency.IsActive, 
+        OrderNo = TblCurrency.OrderNo, 
+        IsAdvance = TblCurrency.IsAdvance, 
+        CreatedBy = TblCurrency.CreatedBy, 
+        CreatedOn = TblCurrency.CreatedOn, 
+        LmodBy = TblCurrency.LmodBy, 
+        LmodOn = TblCurrency.LmodOn
+     })
+    .OrderBy( => .DocId)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-08-10T11:56:42.7691243+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<string, string, string, string, decimal, string, string, DateTime, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            DocId -> 0
+            CurrCode -> 1
+            CurrName -> 2
+            IsActive -> 3
+            OrderNo -> 4
+            IsAdvance -> 5
+            CreatedBy -> 6
+            CreatedOn -> 7
+            LmodBy -> 8
+            LmodOn -> 9
+        SELECT t.DocID AS DocId, t.CurrCode, t.CurrName, t.IsActive, t.OrderNo, t.IsAdvance, t._CreatedBy AS CreatedBy, t._CreatedOn AS CreatedOn, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Currency AS t
+        ORDER BY t.DocID ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<string, string, string, string, decimal, string, string, DateTime, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-08-10T11:56:42.7771464+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:56:42.7772403+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T11:56:42.7799636+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (2ms). (b50e332e)
+2023-08-10T11:56:42.7835876+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:56:42.7840711+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:56:42.7880936+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-08-10T11:56:42.8515439+05:30  [INF] Executed DbCommand ("67"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-08-10T11:56:42.8533094+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:56:42.8534859+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (65d11854)
+2023-08-10T11:56:42.9080487+05:30  [INF] Executed DbCommand ("55"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (0723d8ff)
+2023-08-10T11:56:42.9087852+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:56:42.9090144+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T11:56:42.9093327+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:56:42.9094771+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:56:42.9100559+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:56:42.9100906+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T11:56:42.9101163+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-08-10T11:56:42.9101303+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:56:42.9101647+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:56:42.9101975+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-08-10T11:56:42.9159811+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:56:42.9160367+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 64ms reading results. (8e6fd384)
+2023-08-10T11:56:42.9161619+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:56:42.9162420+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:56:42.9162666+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:56:42.9162808+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:56:42.9162887+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:56:42.9677922+05:30  [INF] Executed DbCommand ("58"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-08-10T11:56:42.9680683+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:56:42.9681233+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T11:56:42.9681548+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:56:42.9682033+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:56:42.9682264+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:56:42.9682565+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:56:42.9682732+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:57:06.9126120+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:57:06.9127002+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:57:06.9127454+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:57:07.0257715+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:57:07.0258192+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:57:07.0258456+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:57:07.0439163+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:57:07.2039584+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCurrency"' entity with key '"{DocId: 7ad78275-6b3b-4bfb-b265-a43c8c96a1b3}"'. (e90dcc49)
+2023-08-10T11:57:07.2076047+05:30  [DBG] SaveChanges starting for '"AppDBContext"'. (2e287ef6)
+2023-08-10T11:57:07.2130069+05:30  [DBG] DetectChanges starting for '"AppDBContext"'. (8cb1b8e5)
+2023-08-10T11:57:07.2433393+05:30  [DBG] DetectChanges completed for '"AppDBContext"'. (011b0427)
+2023-08-10T11:57:07.3594823+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:57:07.3595291+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:57:07.3595469+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:57:07.3596075+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:57:07.3646238+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:57:07.3646607+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T11:57:07.3914647+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (26ms). (b50e332e)
+2023-08-10T11:57:07.3958671+05:30  [DBG] Executing DbCommand [Parameters=["@p0='7ad78275-6b3b-4bfb-b265-a43c8c96a1b3' (Nullable = false) (Size = 36) (DbType = AnsiString), @p1='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p2='TND' (Nullable = false) (Size = 4) (DbType = AnsiString), @p3='Tunisian Dinar' (Nullable = false) (Size = 50) (DbType = AnsiString), @p4='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p5='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p6='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p7='0' (Precision = 18)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Masters].[tbl_Currency] ([DocID], [_CreatedBy], [CurrCode], [CurrName], [IsActive], [IsAdvance], [_LModBy], [OrderNo])
+OUTPUT INSERTED.[_CreatedOn], INSERTED.[_LModOn]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);" (65d11854)
+2023-08-10T11:57:07.5327118+05:30  [INF] Executed DbCommand ("141"ms) [Parameters=["@p0='7ad78275-6b3b-4bfb-b265-a43c8c96a1b3' (Nullable = false) (Size = 36) (DbType = AnsiString), @p1='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p2='TND' (Nullable = false) (Size = 4) (DbType = AnsiString), @p3='Tunisian Dinar' (Nullable = false) (Size = 50) (DbType = AnsiString), @p4='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p5='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p6='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p7='0' (Precision = 18)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Masters].[tbl_Currency] ([DocID], [_CreatedBy], [CurrCode], [CurrName], [IsActive], [IsAdvance], [_LModBy], [OrderNo])
+OUTPUT INSERTED.[_CreatedOn], INSERTED.[_LModOn]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);" (0723d8ff)
+2023-08-10T11:57:07.6153583+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:57:07.6155020+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 82ms reading results. (8e6fd384)
+2023-08-10T11:57:07.6165815+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:57:07.6166869+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:57:07.6526204+05:30  [DBG] The '"TblCurrency"' entity with key '"{DocId: 7ad78275-6b3b-4bfb-b265-a43c8c96a1b3}"' tracked by '"AppDBContext"' changed state from 'Added' to 'Unchanged'. (4d3f4cd7)
+2023-08-10T11:57:07.6547709+05:30  [DBG] SaveChanges completed for '"AppDBContext"' with 1 entities written to the database. (78a90622)
+2023-08-10T11:57:07.6548367+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:57:07.6548697+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:57:07.6548902+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:57:08.3356668+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:57:08.3357323+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:57:08.3357699+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:57:08.4508153+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:57:08.4508998+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:57:08.4509244+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T11:57:08.4521488+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T11:57:08.4535175+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:57:08.4535428+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T11:57:08.4535701+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T11:57:08.4535861+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T11:57:08.4535960+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-08-10T11:57:08.4536141+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:57:08.4536471+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:57:08.4536699+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (65d11854)
+2023-08-10T11:57:08.5080702+05:30  [INF] Executed DbCommand ("54"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (0723d8ff)
+2023-08-10T11:57:08.5081635+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:57:08.5081995+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T11:57:08.5082210+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:57:08.5082565+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:57:08.5086741+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T11:57:08.5087092+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T11:57:08.5087254+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-08-10T11:57:08.5087357+05:30  [DBG] Opening connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T11:57:08.5087801+05:30  [DBG] Opened connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T11:57:08.5088313+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-08-10T11:57:08.5882986+05:30  [INF] Executed DbCommand ("79"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-08-10T11:57:08.5884027+05:30  [DBG] Closing data reader to '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T11:57:08.5884253+05:30  [DBG] A data reader for '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T11:57:08.5884382+05:30  [DBG] Closing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T11:57:08.5884631+05:30  [DBG] Closed connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T11:57:08.5884815+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T11:57:08.5884931+05:30  [DBG] Disposing connection to database '"DB_TCE_EMS"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T11:57:08.5885173+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:00:30.0881815+05:30  [DBG] An additional 'IServiceProvider' was created for internal use by Entity Framework. An existing service provider was not used due to the following configuration changes: "configuration added for 'Core:UseMemoryCache', configuration added for 'Core:EnableSensitiveDataLogging', configuration added for 'Core:EnableDetailedErrors', configuration added for 'Core:EnableThreadSafetyChecks', configuration added for 'Core:ConfigureWarnings', configuration added for 'SqlServer'". (1c931a8c)
+2023-08-10T12:00:30.8348569+05:30  [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. (4007092b)
+2023-08-10T12:00:31.3007563+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:00:31.3097221+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:00:31.4040778+05:30  [DBG] Created DbConnection. (84ms). (d2b2430c)
+2023-08-10T12:00:33.8468970+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:00:33.8631396+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:00:33.8787084+05:30  [DBG] Disposed connection to database '""' on server '""' (12ms). (5521379b)
+2023-08-10T12:00:39.7673164+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:00:39.7744333+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:00:39.7750091+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:00:39.9163438+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:00:39.9166126+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:00:39.9167142+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:00:40.2159408+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:00:42.8435914+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCurrency>()
+    .OrderBy(TblCurrency => TblCurrency.CurrCode)
+    .Select(TblCurrency => new { 
+        DocId = TblCurrency.DocId, 
+        CurrCode = TblCurrency.CurrCode, 
+        CurrName = TblCurrency.CurrName, 
+        IsActive = TblCurrency.IsActive, 
+        OrderNo = TblCurrency.OrderNo, 
+        IsAdvance = TblCurrency.IsAdvance, 
+        CreatedBy = TblCurrency.CreatedBy, 
+        CreatedOn = TblCurrency.CreatedOn, 
+        LmodBy = TblCurrency.LmodBy, 
+        LmodOn = TblCurrency.LmodOn
+     })
+    .OrderBy( => .DocId)
+    .Count()"' (e980d05f)
+2023-08-10T12:00:43.1819589+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<int>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT COUNT(*)
+        FROM Masters.tbl_Currency AS t), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, int>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)
+    .Single()"' (02e79cda)
+2023-08-10T12:00:43.2300663+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T12:00:43.2311369+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:00:43.2312063+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:00:43.2443242+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (3ms). (eb909d95)
+2023-08-10T12:00:43.2464717+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (16ms). (b50e332e)
+2023-08-10T12:00:43.2487650+05:30  [DBG] Opening connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T12:00:43.2501369+05:30  [DBG] Opened connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T12:00:43.2652820+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (65d11854)
+2023-08-10T12:00:43.3392129+05:30  [INF] Executed DbCommand ("77"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (0723d8ff)
+2023-08-10T12:00:43.3473806+05:30  [DBG] Closing data reader to '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T12:00:43.3490034+05:30  [DBG] A data reader for '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 7ms reading results. (8e6fd384)
+2023-08-10T12:00:43.3513184+05:30  [DBG] Closing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T12:00:43.3524816+05:30  [DBG] Closed connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (1ms). (c2845b9f)
+2023-08-10T12:00:43.3647195+05:30  [DBG] Compiling query expression: "
+"'"DbSet<TblCurrency>()
+    .OrderBy(TblCurrency => TblCurrency.CurrCode)
+    .Select(TblCurrency => new { 
+        DocId = TblCurrency.DocId, 
+        CurrCode = TblCurrency.CurrCode, 
+        CurrName = TblCurrency.CurrName, 
+        IsActive = TblCurrency.IsActive, 
+        OrderNo = TblCurrency.OrderNo, 
+        IsAdvance = TblCurrency.IsAdvance, 
+        CreatedBy = TblCurrency.CreatedBy, 
+        CreatedOn = TblCurrency.CreatedOn, 
+        LmodBy = TblCurrency.LmodBy, 
+        LmodOn = TblCurrency.LmodOn
+     })
+    .OrderBy( => .DocId)
+    .Skip(__p_0)
+    .Take(__p_1)"' (e980d05f)
+2023-08-10T12:00:43.3917545+05:30  [DBG] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<<>f__AnonymousType0<string, string, string, string, decimal, string, string, DateTime, string, DateTime>>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            DocId -> 0
+            CurrCode -> 1
+            CurrName -> 2
+            IsActive -> 3
+            OrderNo -> 4
+            IsAdvance -> 5
+            CreatedBy -> 6
+            CreatedOn -> 7
+            LmodBy -> 8
+            LmodOn -> 9
+        SELECT t.DocID AS DocId, t.CurrCode, t.CurrName, t.IsActive, t.OrderNo, t.IsAdvance, t._CreatedBy AS CreatedBy, t._CreatedOn AS CreatedOn, t._LModBy AS LmodBy, t._LModOn AS LmodOn
+        FROM Masters.tbl_Currency AS t
+        ORDER BY t.DocID ASC
+        OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, <>f__AnonymousType0<string, string, string, string, decimal, string, string, DateTime, string, DateTime>>, 
+    TCE.EMS.Services.DBContext.AppDBContext, 
+    False, 
+    True, 
+    True
+)"' (02e79cda)
+2023-08-10T12:00:43.4021417+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T12:00:43.4023539+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T12:00:43.4085548+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (6ms). (b50e332e)
+2023-08-10T12:00:43.4088651+05:30  [DBG] Opening connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T12:00:43.4090287+05:30  [DBG] Opened connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T12:00:43.4127274+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-08-10T12:00:43.4772017+05:30  [INF] Executed DbCommand ("68"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-08-10T12:00:43.4820094+05:30  [DBG] Closing data reader to '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T12:00:43.4822387+05:30  [DBG] A data reader for '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 4ms reading results. (8e6fd384)
+2023-08-10T12:00:43.4826372+05:30  [DBG] Closing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T12:00:43.4827750+05:30  [DBG] Closed connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T12:00:43.4828011+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:00:43.4828239+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:00:43.4828388+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:01:11.5195454+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:01:11.5286771+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:01:11.5287596+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:01:11.6567180+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:01:11.6567851+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:01:11.6568097+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:01:11.6787299+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:01:11.8416830+05:30  [DBG] Context '"AppDBContext"' started tracking '"TblCurrency"' entity with key '"{DocId: 3e97df8d-8829-407c-b261-99197e73a5a1}"'. (e90dcc49)
+2023-08-10T12:01:11.8455589+05:30  [DBG] SaveChanges starting for '"AppDBContext"'. (2e287ef6)
+2023-08-10T12:01:11.8513117+05:30  [DBG] DetectChanges starting for '"AppDBContext"'. (8cb1b8e5)
+2023-08-10T12:01:11.8796540+05:30  [DBG] DetectChanges completed for '"AppDBContext"'. (011b0427)
+2023-08-10T12:01:12.0229889+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:01:12.0230455+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:01:12.0230688+05:30  [DBG] Opening connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T12:01:12.0231390+05:30  [DBG] Opened connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T12:01:12.0248841+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T12:01:12.0249232+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T12:01:12.0270089+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (2ms). (b50e332e)
+2023-08-10T12:01:12.0299200+05:30  [DBG] Executing DbCommand [Parameters=["@p0='3e97df8d-8829-407c-b261-99197e73a5a1' (Nullable = false) (Size = 36) (DbType = AnsiString), @p1='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p2='TND' (Nullable = false) (Size = 4) (DbType = AnsiString), @p3='Tunisian Dinar' (Nullable = false) (Size = 50) (DbType = AnsiString), @p4='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p5='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p6='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p7='0' (Precision = 18)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Masters].[tbl_Currency] ([DocID], [_CreatedBy], [CurrCode], [CurrName], [IsActive], [IsAdvance], [_LModBy], [OrderNo])
+OUTPUT INSERTED.[_CreatedOn], INSERTED.[_LModOn]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);" (65d11854)
+2023-08-10T12:01:12.1131010+05:30  [INF] Executed DbCommand ("86"ms) [Parameters=["@p0='3e97df8d-8829-407c-b261-99197e73a5a1' (Nullable = false) (Size = 36) (DbType = AnsiString), @p1='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p2='TND' (Nullable = false) (Size = 4) (DbType = AnsiString), @p3='Tunisian Dinar' (Nullable = false) (Size = 50) (DbType = AnsiString), @p4='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p5='' (Nullable = false) (Size = 1) (DbType = AnsiString), @p6='' (Nullable = false) (Size = 10) (DbType = AnsiString), @p7='0' (Precision = 18)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Masters].[tbl_Currency] ([DocID], [_CreatedBy], [CurrCode], [CurrName], [IsActive], [IsAdvance], [_LModBy], [OrderNo])
+OUTPUT INSERTED.[_CreatedOn], INSERTED.[_LModOn]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);" (0723d8ff)
+2023-08-10T12:01:12.1313715+05:30  [DBG] Closing data reader to '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T12:01:12.1314617+05:30  [DBG] A data reader for '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 18ms reading results. (8e6fd384)
+2023-08-10T12:01:12.1319798+05:30  [DBG] Closing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T12:01:12.1320319+05:30  [DBG] Closed connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T12:01:12.1510894+05:30  [DBG] The '"TblCurrency"' entity with key '"{DocId: 3e97df8d-8829-407c-b261-99197e73a5a1}"' tracked by '"AppDBContext"' changed state from 'Added' to 'Unchanged'. (4d3f4cd7)
+2023-08-10T12:01:12.1530660+05:30  [DBG] SaveChanges completed for '"AppDBContext"' with 1 entities written to the database. (78a90622)
+2023-08-10T12:01:12.1531154+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:01:12.1531509+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:01:12.1531706+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:01:12.7737576+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:01:12.7738219+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:01:12.7738595+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:01:12.9122481+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:01:12.9122841+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:01:12.9123018+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)
+2023-08-10T12:01:12.9136406+05:30  [DBG] Entity Framework Core "7.0.2" initialized '"AppDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"7.0.2"' with options: "SensitiveDataLoggingEnabled DetailedErrorsEnabled " (d2805559)
+2023-08-10T12:01:12.9238468+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T12:01:12.9238819+05:30  [DBG] Creating DbConnection. (1b519d0a)
+2023-08-10T12:01:12.9239077+05:30  [DBG] Created DbConnection. (0ms). (d2b2430c)
+2023-08-10T12:01:12.9239219+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T12:01:12.9239300+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-08-10T12:01:12.9239419+05:30  [DBG] Opening connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T12:01:12.9239967+05:30  [DBG] Opened connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T12:01:12.9240208+05:30  [DBG] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (65d11854)
+2023-08-10T12:01:12.9867461+05:30  [INF] Executed DbCommand ("63"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Masters].[tbl_Currency] AS [t]" (0723d8ff)
+2023-08-10T12:01:12.9869795+05:30  [DBG] Closing data reader to '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T12:01:12.9870156+05:30  [DBG] A data reader for '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T12:01:12.9870638+05:30  [DBG] Closing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T12:01:12.9871066+05:30  [DBG] Closed connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T12:01:12.9883916+05:30  [DBG] Creating DbCommand for '"ExecuteReader"'. (b4e8d140)
+2023-08-10T12:01:12.9884366+05:30  [DBG] Created DbCommand for '"ExecuteReader"' (0ms). (eb909d95)
+2023-08-10T12:01:12.9884610+05:30  [DBG] Initialized DbCommand for '"ExecuteReader"' (0ms). (b50e332e)
+2023-08-10T12:01:12.9884752+05:30  [DBG] Opening connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (eeba43d7)
+2023-08-10T12:01:12.9885105+05:30  [DBG] Opened connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (18ee271c)
+2023-08-10T12:01:12.9885454+05:30  [DBG] Executing DbCommand [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (65d11854)
+2023-08-10T12:01:13.0493625+05:30  [INF] Executed DbCommand ("61"ms) [Parameters=["@__p_0='0', @__p_1='10'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [t].[DocID] AS [DocId], [t].[CurrCode], [t].[CurrName], [t].[IsActive], [t].[OrderNo], [t].[IsAdvance], [t].[_CreatedBy] AS [CreatedBy], [t].[_CreatedOn] AS [CreatedOn], [t].[_LModBy] AS [LmodBy], [t].[_LModOn] AS [LmodOn]
+FROM [Masters].[tbl_Currency] AS [t]
+ORDER BY [t].[DocID]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY" (0723d8ff)
+2023-08-10T12:01:13.0504580+05:30  [DBG] Closing data reader to '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (6ae8bf88)
+2023-08-10T12:01:13.0506391+05:30  [DBG] A data reader for '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' is being disposed after spending 0ms reading results. (8e6fd384)
+2023-08-10T12:01:13.0506759+05:30  [DBG] Closing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (dca661ac)
+2023-08-10T12:01:13.0507283+05:30  [DBG] Closed connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"' (0ms). (c2845b9f)
+2023-08-10T12:01:13.0507556+05:30  [DBG] '"AppDBContext"' disposed. (db68f4b4)
+2023-08-10T12:01:13.0508401+05:30  [DBG] Disposing connection to database '"DB_TCE_SampleProj"' on server '"bot-server.southeastasia.cloudapp.azure.com"'. (54adaec0)
+2023-08-10T12:01:13.0508612+05:30  [DBG] Disposed connection to database '""' on server '""' (0ms). (5521379b)

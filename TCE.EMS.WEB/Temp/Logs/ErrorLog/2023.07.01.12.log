@@ -1,0 +1,6 @@
+
+ ERROR 01-Jul-2023 12:24:42 [13] - Exception :01242023122442081610
+User Id: 102660 
+ System.NullReferenceException: Object reference not set to an instance of an object.
+   at BZ.FW.WebUtility.Utilities.WebApiHelper.Get[T](String Controller, String Action, List`1 vParam) in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\BZ.FW.WebUtility\Utilities\WebApiHelper.cs:line 63
+   at TCE.EMS.WEB.Controllers.TripController.GetCountry() in D:\Apps\.NetCoreApplication\EMSwithAPI\EMS\TCE.EMS.WEB\Controllers\TripController.cs:line 63
